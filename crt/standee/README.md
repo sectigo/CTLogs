@@ -14,4 +14,4 @@ This is a non-production log.
 
 | URL Prefix | Expiry Range<br>Start | Expiry Range<br>End | Public Key (base64) |
 |------------|-----------------------|---------------------|---------------------|
-| https://standee.{sub,mon}.ctlabs.sectigo.com | Not applicable | Not applicable | |
+| https://standee.{sub,mon}.ctlabs.sectigo.com | Not applicable | Not applicable | `MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQc`<br>`DQgAE/DZwuwddTcD6qqUmnxWJ9qhoX5`<br>`TZTMSJ2r8ktv9ozIwhGfC0a7g0t9g9+`<br>`i5YHbCdW4++YBRVzCyVJTXtxnkQyg==` |
