@@ -2,7 +2,7 @@
 
 ## Policy
 
-This log accepts some roots that are no longer trusted or are not (yet) trusted.
+This log accepts some roots that are no longer trusted or are not (yet) trusted for the Server Authentication trust purpose in one or more of the Microsoft, Mozilla, Chrome, Apple, and 360 Browser root programs. It also includes some roots that are trusted for other trust purposes by various root programs.
 
 We will update this log's list of accepted roots from time to time in accordance with this policy.
 
