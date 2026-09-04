@@ -1,0 +1,21 @@
+{
+  "$schema": "https://googlechrome.github.io/CertificateTransparency/log_schema_v2.json",
+  "log_id": "YaNdw5gGGypZW/40RomVGPD+rBSwG+Aqk78FIUY6nb0=",
+  "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEpb+NLT3zUoc4PAWOpxkkvEH24RKv0dn5QanhKK8Ap7ORfcMxhdWX6h21ZppbyVQ+6hA/pkXNBBGyEpi16VyAQA==",
+  "friendly_name": "Dumbo",
+  "log_spec": "rfc6962",
+  "mmd_seconds": 86400,
+  "intended_use": "test",
+  "temporal_interval": {
+    "start_inclusive": "0001-01-01T00:00:00Z",
+    "end_exclusive": "9999-12-31T23:59:59Z"
+  },
+  "status": "active",
+  "status_timestamp": "2026-09-04T00:00:00Z",
+  "log_software": {
+    "name": "Trillian"
+  },
+  "endpoint": {
+    "url": "https://dumbo.ctlabs.sectigo.com/"
+  }
+}

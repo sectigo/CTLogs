@@ -1,0 +1,21 @@
+{
+  "$schema": "https://googlechrome.github.io/CertificateTransparency/log_schema_v2.json",
+  "log_id": "b1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RM=",
+  "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7+R9dC4VFbbpuyOL+yy14ceAmEf7QGlo/EmtYU6DRzwat43f/3swtLr/L8ugFOOt1YU/RFmMjGCL17ixv66MZw==",
+  "friendly_name": "Mammoth",
+  "log_spec": "rfc6962",
+  "mmd_seconds": 86400,
+  "intended_use": "decommissioned",
+  "temporal_interval": {
+    "start_inclusive": "0001-01-01T00:00:00Z",
+    "end_exclusive": "9999-12-31T23:59:59Z"
+  },
+  "status": "inactive",
+  "status_timestamp": "2023-02-01T00:00:00Z",
+  "log_software": {
+    "name": "Trillian"
+  },
+  "endpoint": {
+    "url": "https://mammoth.ct.comodo.com/"
+  }
+}

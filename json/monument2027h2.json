@@ -1,0 +1,24 @@
+{
+  "$schema": "https://googlechrome.github.io/CertificateTransparency/log_schema_v2.json",
+  "log_id": "tvzC6p+E49qX4wl/sfIW6R/w154KB0QDJbBvlPXmU8U=",
+  "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzAWvoYfHsDXwXaxHUTOAOYx+vESfGpSKTYPUwwDYIwKe1g4lsEmoMwlFJNP2wC8M3g721r663BQaU7I5tKa5jw==",
+  "friendly_name": "Monument 2027h2",
+  "log_spec": "static-ct-api",
+  "mmd_seconds": 86400,
+  "intended_use": "production",
+  "temporal_interval": {
+    "start_inclusive": "2027-07-01T00:00:00Z",
+    "end_exclusive": "2028-01-01T00:00:00Z"
+  },
+  "status": "active",
+  "status_timestamp": "2026-09-04T00:00:00Z",
+  "log_software": {
+    "name": "TesseraCT"
+  },
+  "submission_endpoint": {
+    "url": "https://monument2027h2.sub.ct.sectigo.com/"
+  },
+  "monitoring_endpoint": {
+    "url": "https://monument2027h2.mon.ct.sectigo.com/"
+  }
+}

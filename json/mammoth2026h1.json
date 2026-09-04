@@ -1,0 +1,21 @@
+{
+  "$schema": "https://googlechrome.github.io/CertificateTransparency/log_schema_v2.json",
+  "log_id": "JS+Uwisp6W6fQRpyBytpXFtS/5epDSVAu/zcUexN7gs=",
+  "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnssMilHMiuILzoXmr00x2xtqTP2weWuZl8Bd+25FUB1iqsafm2sFPaKrK12Im1Ao4p5YpaX6+eP6FSXjFBMyxA==",
+  "friendly_name": "Mammoth 2026h1",
+  "log_spec": "rfc6962",
+  "mmd_seconds": 86400,
+  "intended_use": "decommissioned",
+  "temporal_interval": {
+    "start_inclusive": "2026-01-01T00:00:00Z",
+    "end_exclusive": "2026-07-01T00:00:00Z"
+  },
+  "status": "inactive",
+  "status_timestamp": "2026-07-01T00:00:00Z",
+  "log_software": {
+    "name": "Trillian"
+  },
+  "endpoint": {
+    "url": "https://mammoth2026h1.ct.sectigo.com/"
+  }
+}

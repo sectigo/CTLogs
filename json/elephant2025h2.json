@@ -1,0 +1,21 @@
+{
+  "$schema": "https://googlechrome.github.io/CertificateTransparency/log_schema_v2.json",
+  "log_id": "DR28iUTp9QBVQtctPhRMzEMIKrbqHpTf1wZlfS6G8wE=",
+  "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE0OlLeGW2qUZGUoQERydw3GlayEO3ZK3418zThY1tDYr85ASme6ZOL/2DXyOXw8RCwVsKhRbOqMEOxW4Q2p4KQg==",
+  "friendly_name": "Elephant 2025h2",
+  "log_spec": "rfc6962",
+  "mmd_seconds": 86400,
+  "intended_use": "decommissioned",
+  "temporal_interval": {
+    "start_inclusive": "2025-07-01T00:00:00Z",
+    "end_exclusive": "2026-01-01T00:00:00Z"
+  },
+  "status": "inactive",
+  "status_timestamp": "2026-01-01T00:00:00Z",
+  "log_software": {
+    "name": "Trillian"
+  },
+  "endpoint": {
+    "url": "https://elephant2025h2.ct.sectigo.com/"
+  }
+}

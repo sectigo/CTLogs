@@ -1,0 +1,21 @@
+{
+  "$schema": "https://googlechrome.github.io/CertificateTransparency/log_schema_v2.json",
+  "log_id": "23b9raxl59CVCIhuIVm9i5A1L1/q0+PcXiLrNQrMe5g=",
+  "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELPXCMfVjQ2oWSgrewu4fIW4Sfh3lco90CwKZ061pvAI1eflh6c8ACE90pKM0muBDHCN+j0HV7scco4KKQPqq4A==",
+  "friendly_name": "Dodo",
+  "log_spec": "rfc6962",
+  "mmd_seconds": 86400,
+  "intended_use": "decommissioned",
+  "temporal_interval": {
+    "start_inclusive": "0001-01-01T00:00:00Z",
+    "end_exclusive": "9999-12-31T23:59:59Z"
+  },
+  "status": "inactive",
+  "status_timestamp": "2025-09-01T00:00:00Z",
+  "log_software": {
+    "name": "Trillian"
+  },
+  "endpoint": {
+    "url": "https://dodo.ct.comodo.com/"
+  }
+}

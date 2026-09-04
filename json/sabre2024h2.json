@@ -1,0 +1,21 @@
+{
+  "$schema": "https://googlechrome.github.io/CertificateTransparency/log_schema_v2.json",
+  "log_id": "GZgQcQnw1lIuMIDSnj9ku4NuKMz5D1KO7t/OSj8WtMo=",
+  "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEehBMiucie20quo76a0qB1YWuA+//S/xNUz23jLt1CcnqFn7BdxbSwkV0bY3E4Yg339TzYGX8oHXwIGaOSswZ2g==",
+  "friendly_name": "Sabre 2024h2",
+  "log_spec": "rfc6962",
+  "mmd_seconds": 86400,
+  "intended_use": "decommissioned",
+  "temporal_interval": {
+    "start_inclusive": "2024-07-01T00:00:00Z",
+    "end_exclusive": "2025-01-01T00:00:00Z"
+  },
+  "status": "inactive",
+  "status_timestamp": "2025-01-01T00:00:00Z",
+  "log_software": {
+    "name": "Trillian"
+  },
+  "endpoint": {
+    "url": "https://sabre2024h2.ct.sectigo.com/"
+  }
+}
