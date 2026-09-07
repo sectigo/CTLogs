@@ -4,7 +4,7 @@
   "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEzAWvoYfHsDXwXaxHUTOAOYx+vESfGpSKTYPUwwDYIwKe1g4lsEmoMwlFJNP2wC8M3g721r663BQaU7I5tKa5jw==",
   "friendly_name": "Monument 2027h2",
   "log_spec": "static-ct-api",
-  "mmd_seconds": 86400,
+  "mmd_seconds": 60,
   "intended_use": "production",
   "temporal_interval": {
     "start_inclusive": "2027-07-01T00:00:00Z",

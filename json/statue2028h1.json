@@ -4,7 +4,7 @@
   "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEffgZsTRT+6CoRLKvp2VwyZbkyvkf8HLcP6VirHDuMAvQ9jKleGpJ/XhA2ycs2DNcMyFnraw02UOVjqHVATKKBQ==",
   "friendly_name": "Statue 2028h1",
   "log_spec": "static-ct-api",
-  "mmd_seconds": 86400,
+  "mmd_seconds": 60,
   "intended_use": "production",
   "temporal_interval": {
     "start_inclusive": "2028-01-01T00:00:00Z",

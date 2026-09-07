@@ -4,7 +4,7 @@
   "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE91RAoG4RS78L2dnlvN9uR7kSdPglMOYAR1Bwbh7p5Dv2yehL3OF/EiSyHCU9SaP846hR7XMNSYMIO4uYCloGgQ==",
   "friendly_name": "Monument 2028h1",
   "log_spec": "static-ct-api",
-  "mmd_seconds": 86400,
+  "mmd_seconds": 60,
   "intended_use": "production",
   "temporal_interval": {
     "start_inclusive": "2028-01-01T00:00:00Z",

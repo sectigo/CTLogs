@@ -4,7 +4,7 @@
   "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEn+NsNAQqvjgRLZOhS78P8JsdDwMXsASG3ZO1gqeH3dAu7MojoOV4gEZVnFtfO4KPc8pw632rpKsi2edP6rtjxg==",
   "friendly_name": "Statue 2027h2",
   "log_spec": "static-ct-api",
-  "mmd_seconds": 86400,
+  "mmd_seconds": 60,
   "intended_use": "production",
   "temporal_interval": {
     "start_inclusive": "2027-07-01T00:00:00Z",

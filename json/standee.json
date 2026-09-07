@@ -4,7 +4,7 @@
   "key": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/DZwuwddTcD6qqUmnxWJ9qhoX5TZTMSJ2r8ktv9ozIwhGfC0a7g0t9g9+i5YHbCdW4++YBRVzCyVJTXtxnkQyg==",
   "friendly_name": "Standee",
   "log_spec": "static-ct-api",
-  "mmd_seconds": 86400,
+  "mmd_seconds": 60,
   "intended_use": "test",
   "temporal_interval": {
     "start_inclusive": "0001-01-01T00:00:00Z",
