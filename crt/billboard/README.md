@@ -8,10 +8,10 @@ We will update the list of accepted roots from time to time in accordance with t
 
 ## Status
 
-This log will be available soon.
+This log is available.
 
 ## Anticipated
 
 | URL Prefix | Expiry Range<br>Start | Expiry Range<br>End | Public Key (base64) |
 |------------|-----------------------|---------------------|---------------------|
-| https://billboard.{sub,mon}.ct.sectigo.com | Not applicable | Not applicable | |
+| https://billboard.{sub,mon}.ct.sectigo.com | Not applicable | Not applicable | `MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQc`<br>`DQgAEyhe0uKj/cQBVmMs50CWf98jEhU`<br>`BBGq2QPYsU+HDHx4TqvN+rNJfBpIGLp`<br>`9YZl8+LrIP0Gl9/gqTkpAFQTrTVUw==` |

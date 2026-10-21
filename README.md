@@ -17,7 +17,7 @@ Our production logs accept all root certificates that are trusted for the server
 
 [Elephant](crt/elephant) and [Tiger](crt/tiger) are our second generation production logs (RFC6962), currently included in the Chrome and Apple CT log programs.
 
-[Monument](crt/monument) and [Statue](crt/statue) are our third generation production logs (Static CT), submitted in September 2026 for inclusion in the Chrome and Apple CT log programs.
+[Monument](crt/monument) and [Statue](crt/statue) are our third generation production logs (Static CT), submitted in September 2026 for inclusion in the Chrome and Apple CT log programs.  [Billboard](crt/billboard) is our production log (Static CT) that is dedicated to the BIMI ecosystem.
 
 ## Non-Production logs
 
