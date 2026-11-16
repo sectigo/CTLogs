@@ -29,7 +29,7 @@ SQL
 RESULT=$?
 if [ "$RESULT" -eq "0" ]; then
   bash $TMPFILE
-  go run cmd/check-certs/main.go crt
+  go run cmd/check-certs/main.go ../../../../crt
 else
   cat $ERRORFILE
 fi
@@ -50,7 +50,7 @@ SQL
 RESULT=$?
 if [ "$RESULT" -eq "0" ]; then
   bash $TMPFILE
-  go run cmd/check-certs/main.go crt
+  go run cmd/check-certs/main.go ../../../../crt
 else
   cat $ERRORFILE
 fi
@@ -76,7 +76,7 @@ SQL
 RESULT=$?
 if [ "$RESULT" -eq "0" ]; then
   bash $TMPFILE
-  go run cmd/check-certs/main.go crt
+  go run cmd/check-certs/main.go ../../../../crt
 else
   cat $ERRORFILE
 fi
