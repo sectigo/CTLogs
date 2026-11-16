@@ -3,6 +3,8 @@ package main
 import (
 	"crypto/sha256"
 	"crypto/x509"
+	"crypto/x509/pkix"
+	"encoding/asn1"
 	"encoding/pem"
 	"flag"
 	"fmt"
@@ -14,15 +16,16 @@ import (
 )
 
 type CheckResult struct {
-	Path      string
-	Filename  string
-	Expected  string
-	Actual    string
-	Renamed   bool
-	OldPath   string
-	Error     string
-	MLDSAFound bool
-	Deleted   bool
+	Path         string
+	Filename     string
+	Expected     string
+	Actual       string
+	Renamed      bool
+	OldPath      string
+	Error        string
+	MLDSAFound   bool
+	Deleted      bool
+	DeleteMethod string
 }
 
 func main() {
@@ -95,13 +98,15 @@ func checkCertificate(certPath string, dryRun bool) CheckResult {
 		result.MLDSAFound = true
 		if !dryRun {
 			// Try git rm first (for tracked files), fall back to plain rm for untracked files
-			cmd := exec.Command("git", "rm", certPath)
+			cmd := exec.Command("git", "rm", "--quiet", certPath)
+			result.DeleteMethod = "git rm"
 			if err := cmd.Run(); err != nil {
 				// If git rm fails, try plain rm (file might be untracked)
 				if err := os.Remove(certPath); err != nil {
 					result.Error = fmt.Sprintf("failed to delete certificate with ML-DSA key: %v", err)
 					return result
 				}
+				result.DeleteMethod = "rm"
 			}
 			result.Deleted = true
 		}
@@ -145,42 +150,32 @@ func checkCertificate(certPath string, dryRun bool) CheckResult {
 	return result
 }
 
-// hasMLDSAKey checks if a certificate uses an ML-DSA key.
-// ML-DSA OIDs:
-// - SignatureAlgorithm: 2.16.840.1.101.3.4.3.17 (ML-DSA-44) or 2.16.840.1.101.3.4.3.18 (ML-DSA-65)
-// - PublicKeyAlgorithm: 2.16.840.1.101.3.4.1.3 (id-alg-ML-DSA-44) or similar
+// ML-DSA public key algorithm OIDs (FIPS 204, RFC 9881).
+var mlDSAOIDs = []asn1.ObjectIdentifier{
+	{2, 16, 840, 1, 101, 3, 4, 3, 17}, // id-ml-dsa-44
+	{2, 16, 840, 1, 101, 3, 4, 3, 18}, // id-ml-dsa-65
+	{2, 16, 840, 1, 101, 3, 4, 3, 19}, // id-ml-dsa-87
+	{2, 16, 840, 1, 101, 3, 4, 3, 32}, // id-hash-ml-dsa-44-with-sha512
+	{2, 16, 840, 1, 101, 3, 4, 3, 33}, // id-hash-ml-dsa-65-with-sha512
+	{2, 16, 840, 1, 101, 3, 4, 3, 34}, // id-hash-ml-dsa-87-with-sha512
+}
+
+// hasMLDSAKey reports whether the certificate's subject public key is an ML-DSA key.
+// crypto/x509 reports unrecognized key algorithms only as UnknownPublicKeyAlgorithm, so
+// the algorithm OID is read from the raw SubjectPublicKeyInfo.
 func hasMLDSAKey(cert *x509.Certificate) bool {
-	// Check signature algorithm OID
-	sigAlgOID := cert.SignatureAlgorithm.String()
-	if strings.Contains(sigAlgOID, "ML-DSA") {
-		return true
+	var spki struct {
+		Algorithm pkix.AlgorithmIdentifier
+		PublicKey asn1.BitString
 	}
-
-	// Check the raw signature algorithm OID in the certificate
-	// ML-DSA OIDs: 2.16.840.1.101.3.4.3.17 (ML-DSA-44), 2.16.840.1.101.3.4.3.18 (ML-DSA-65)
-	// 2.16.840.1.101.3.4.1.3 and 2.16.840.1.101.3.4.1.4 for public key algorithm
-	mlDSAOIDs := []string{
-		"2.16.840.1.101.3.4.3.17",
-		"2.16.840.1.101.3.4.3.18",
-		"2.16.840.1.101.3.4.1.3",
-		"2.16.840.1.101.3.4.1.4",
+	if _, err := asn1.Unmarshal(cert.RawSubjectPublicKeyInfo, &spki); err != nil {
+		return false
 	}
-
-	certOIDStr := cert.SignatureAlgorithm.String()
 	for _, oid := range mlDSAOIDs {
-		if strings.Contains(certOIDStr, oid) {
+		if spki.Algorithm.Algorithm.Equal(oid) {
 			return true
 		}
 	}
-
-	// Check public key algorithm
-	pubKeyOID := cert.PublicKeyAlgorithm.String()
-	for _, oid := range mlDSAOIDs {
-		if strings.Contains(pubKeyOID, oid) {
-			return true
-		}
-	}
-
 	return false
 }
 
@@ -188,7 +183,7 @@ func reportFindings(results []CheckResult, dryRun bool) {
 	var mismatched int
 	var errors int
 	var mldsaCount int
-
+	var mldsaDeleted int
 	fmt.Println("\n" + strings.Repeat("=", 80))
 	fmt.Println("Certificate Filename Verification Report")
 	fmt.Println(strings.Repeat("=", 80))
@@ -200,9 +195,12 @@ func reportFindings(results []CheckResult, dryRun bool) {
 			fmt.Printf("\n🗑️  ML-DSA KEY DETECTED: %s\n", result.Filename)
 			fmt.Printf("   Path: %s\n", result.Path)
 			if result.Deleted {
-				fmt.Printf("   ✓ DELETED with git rm\n")
+				mldsaDeleted++
+				fmt.Printf("   ✓ DELETED with %s\n", result.DeleteMethod)
+			} else if result.Error != "" {
+				fmt.Printf("   Error: %s\n", result.Error)
 			} else if dryRun {
-				fmt.Printf("   [DRY-RUN] Would delete with git rm\n")
+				fmt.Printf("   [DRY-RUN] Would delete\n")
 			}
 		}
 	}
@@ -247,7 +245,7 @@ func reportFindings(results []CheckResult, dryRun bool) {
 		fmt.Printf("  Deleted ML-DSA (dry-run):%d\n", mldsaCount)
 	} else {
 		fmt.Printf("  Renamed:                 %d\n", mismatched)
-		fmt.Printf("  Deleted ML-DSA:          %d\n", mldsaCount)
+		fmt.Printf("  Deleted ML-DSA:          %d\n", mldsaDeleted)
 	}
 	fmt.Println(strings.Repeat("=", 80))
 }

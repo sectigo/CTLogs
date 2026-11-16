@@ -82,17 +82,14 @@ The tool supports PEM-encoded certificates (`.crt` files). It extracts the certi
 
 ## ML-DSA Detection
 
-The tool detects ML-DSA keys by checking for the following OIDs in the certificate:
+The tool detects ML-DSA keys by reading the algorithm OID from the certificate's SubjectPublicKeyInfo (FIPS 204, RFC 9881):
 
-- **Signature Algorithm OIDs**:
-  - `2.16.840.1.101.3.4.3.17` (ML-DSA-44)
-  - `2.16.840.1.101.3.4.3.18` (ML-DSA-65)
+- `2.16.840.1.101.3.4.3.17` (ML-DSA-44)
+- `2.16.840.1.101.3.4.3.18` (ML-DSA-65)
+- `2.16.840.1.101.3.4.3.19` (ML-DSA-87)
+- `2.16.840.1.101.3.4.3.32` - `.34` (HashML-DSA-44/65/87 with SHA-512)
 
-- **Public Key Algorithm OIDs**:
-  - `2.16.840.1.101.3.4.1.3`
-  - `2.16.840.1.101.3.4.1.4`
-
-Any certificate using these algorithms will be detected and deleted.
+Any certificate whose public key uses one of these algorithms will be detected and deleted.
 
 ## Git Integration
 
