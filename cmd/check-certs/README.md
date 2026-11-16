@@ -1,10 +1,14 @@
 # check-certs
 
-A Go tool that validates certificate filenames against their SHA-256 fingerprints.
+A Go tool that validates certificate filenames against their SHA-256 fingerprints and removes certificates with ML-DSA keys.
 
 ## Overview
 
-This tool scans all certificate files (`.crt`) in a directory tree, calculates the SHA-256 fingerprint of each DER-encoded certificate, and verifies that the filename (excluding the `.crt` extension) matches the fingerprint. Files with mismatched names are automatically renamed to their correct fingerprint-based names using `git mv` to preserve version control history.
+This tool scans all certificate files (`.crt`) in a directory tree and performs two key operations:
+
+1. **Filename Validation**: Calculates the SHA-256 fingerprint of each DER-encoded certificate and verifies that the filename (excluding the `.crt` extension) matches the fingerprint. Files with mismatched names are automatically renamed to their correct fingerprint-based names using `git mv`.
+
+2. **ML-DSA Removal**: Detects certificates that use ML-DSA (Module-Lattice-Based Digital Signature Algorithm) keys and deletes them using `git rm` to preserve version control history.
 
 ## Usage
 
@@ -16,7 +20,7 @@ go build -o check-certs ./cmd/check-certs/main.go
 
 ### Run
 
-Verify certificates and rename mismatched files (using `git mv`):
+Verify certificates, rename mismatched files, and delete ML-DSA certificates:
 
 ```bash
 ./check-certs -dir crt
@@ -24,7 +28,7 @@ Verify certificates and rename mismatched files (using `git mv`):
 
 ### Dry-run
 
-Preview what would be renamed without making actual changes:
+Preview what would be renamed and deleted without making actual changes:
 
 ```bash
 ./check-certs -dry-run -dir crt
@@ -33,15 +37,16 @@ Preview what would be renamed without making actual changes:
 ## Flags
 
 - `-dir <path>`: Path to the certificate directory (default: `crt`)
-- `-dry-run`: Show what would be renamed without actually renaming files
+- `-dry-run`: Show what would be renamed/deleted without actually making changes
 
 ## Output
 
 The tool produces a detailed report including:
 
+- **ML-DSA Certificates**: Certificates using ML-DSA keys that will be deleted
 - **Mismatches**: Files whose names don't match their SHA-256 fingerprints
-- **Errors**: Files that couldn't be parsed (e.g., malformed certificates) or renamed
-- **Summary**: Total files checked, matched, mismatched, errors, and number of renames
+- **Errors**: Files that couldn't be parsed (e.g., malformed certificates) or processed
+- **Summary**: Total files checked, matched, mismatched, ML-DSA deletions, errors, and renames
 
 Example:
 
@@ -49,6 +54,10 @@ Example:
 ================================================================================
 Certificate Filename Verification Report
 ================================================================================
+
+🗑️  ML-DSA KEY DETECTED: EXAMPLE1234567890ABCDEF.crt
+   Path: crt/common/trusted/tls/EXAMPLE1234567890ABCDEF.crt
+   ✓ DELETED with git rm
 
 ⚠️  MISMATCH: DigiCertVerifiedMarkRootCA.crt
    Expected: DigiCertVerifiedMarkRootCA.crt
@@ -58,10 +67,12 @@ Certificate Filename Verification Report
 --------------------------------------------------------------------------------
 Summary:
   Total files checked:     1160
-  Filenames matched:       1158
+  Filenames matched:       1156
   Filenames mismatched:    2
-  Errors:                  0
+  ML-DSA certificates:     1
+  Errors:                  1
   Renamed:                 2
+  Deleted ML-DSA:          1
 ================================================================================
 ```
 
@@ -69,12 +80,28 @@ Summary:
 
 The tool supports PEM-encoded certificates (`.crt` files). It extracts the certificate data, parses it, and computes the SHA-256 fingerprint of the DER-encoded form.
 
+## ML-DSA Detection
+
+The tool detects ML-DSA keys by checking for the following OIDs in the certificate:
+
+- **Signature Algorithm OIDs**:
+  - `2.16.840.1.101.3.4.3.17` (ML-DSA-44)
+  - `2.16.840.1.101.3.4.3.18` (ML-DSA-65)
+
+- **Public Key Algorithm OIDs**:
+  - `2.16.840.1.101.3.4.1.3`
+  - `2.16.840.1.101.3.4.1.4`
+
+Any certificate using these algorithms will be detected and deleted.
+
 ## Git Integration
 
-When renaming files, the tool uses `git mv` instead of direct filesystem operations. This ensures that:
-- The rename operation is tracked in version control
-- Git history is properly preserved
-- The changes can be easily committed
+Operations use git commands to maintain version control:
+
+- **Renames**: Uses `git mv` to track filename changes in git history
+- **Deletions**: Uses `git rm` to properly track file removals
+
+Changes are automatically staged in git's index and ready to commit.
 
 ## Edge Cases
 
@@ -83,7 +110,8 @@ Some edge cases may produce errors:
 - **Malformed certificates**: Certificates that don't conform to X.509 standards
 - **Unusual string types**: Non-standard attributes in the certificate's DN
 - **Negative serial numbers**: Certificates with invalid serial number fields
-- **Git errors**: Issues with running `git mv` (e.g., not in a git repository)
+- **Git errors**: Issues with running `git mv` or `git rm` (e.g., not in a git repository)
 
 These errors are reported in the summary and do not prevent the tool from processing other files.
+
 
