@@ -111,4 +111,4 @@ rm $TMPFILE $ERRORFILE
 
 # Run check-certs once at the end to validate all certificates
 cd "$REPO_ROOT"
-GODEBUG=x509negativeserial=1 go run cmd/check-certs/main.go crt
+GODEBUG=x509negativeserial=1 go run cmd/check-certs/main.go -dir crt
