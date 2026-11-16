@@ -94,11 +94,14 @@ func checkCertificate(certPath string, dryRun bool) CheckResult {
 	if hasMLDSAKey(cert) {
 		result.MLDSAFound = true
 		if !dryRun {
-			// Use git rm to delete the file
+			// Try git rm first (for tracked files), fall back to plain rm for untracked files
 			cmd := exec.Command("git", "rm", certPath)
 			if err := cmd.Run(); err != nil {
-				result.Error = fmt.Sprintf("failed to delete certificate with ML-DSA key: %v", err)
-				return result
+				// If git rm fails, try plain rm (file might be untracked)
+				if err := os.Remove(certPath); err != nil {
+					result.Error = fmt.Sprintf("failed to delete certificate with ML-DSA key: %v", err)
+					return result
+				}
 			}
 			result.Deleted = true
 		}

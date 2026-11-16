@@ -96,12 +96,15 @@ Any certificate using these algorithms will be detected and deleted.
 
 ## Git Integration
 
-Operations use git commands to maintain version control:
+Operations use git commands when possible to maintain version control:
 
 - **Renames**: Uses `git mv` to track filename changes in git history
-- **Deletions**: Uses `git rm` to properly track file removals
+- **ML-DSA Deletions**: 
+  - Attempts `git rm` for tracked files to record deletion in git history
+  - Falls back to plain `rm` for untracked files
+  - Both operations properly remove the certificates
 
-Changes are automatically staged in git's index and ready to commit.
+Changes from renames are automatically staged in git's index and ready to commit. Deletions of tracked files are also staged. Deletions of untracked files are simply removed from the filesystem.
 
 ## Edge Cases
 
