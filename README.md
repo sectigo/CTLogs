@@ -11,7 +11,7 @@ All of our logs are behind Cloudflare, and our RFC6962 logs use the [CF_CTile](h
 
 ## Production logs
 
-Our production logs accept all root certificates that are trusted for the server authentication trust purpose in one or more of the Microsoft, Mozilla, Chrome, Apple, and 360 Browser root programs.
+Our production logs accept all root certificates that are trusted for the server authentication trust purpose in one or more of the Microsoft, Mozilla, Chrome, Apple, and 360 Browser root programs. (One exception: the ML-DSA PQC Pilot root certificates in the Microsoft root program are not accepted).
 
 [Mammoth](crt/mammoth) and [Sabre](crt/sabre) were our first generation production logs (RFC6962), currently included in the Chrome and Apple CT log programs, but no longer accepting entries.
 

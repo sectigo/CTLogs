@@ -2,7 +2,7 @@
 
 ## Policy
 
-These logs accept all roots that are enabled for the Server Authentication trust purpose in one or more of the Microsoft, Mozilla, Chrome, Apple, and 360 Browser root programs.
+These logs accept all roots that are enabled for the Server Authentication trust purpose in one or more of the Microsoft, Mozilla, Chrome, Apple, and 360 Browser root programs. (One exception: the ML-DSA PQC Pilot root certificates in the Microsoft root program are not accepted).
 
 We will update the list of accepted roots from time to time in accordance with this policy.
 
