@@ -27,7 +27,7 @@ RESULT=$?
 if [ "$RESULT" -eq "0" ]; then
   bash $TMPFILE
   cd ../../../..
-  GODEBUG=x509negativeserial=1go run cmd/check-certs/main.go crt
+  GODEBUG=x509negativeserial=1 go run cmd/check-certs/main.go crt
 else
   cat $ERRORFILE
 fi
