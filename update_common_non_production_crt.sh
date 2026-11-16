@@ -4,6 +4,8 @@
 #   - All of the roots that are currently "trusted" for server authentication, but with a "disabled from" date in the past or a "not before until" date more than 398 days ago, by one of the Microsoft, Mozilla, Chrome, Apple, or 360 Browser root programs.
 #   - All of the roots that are currently trusted (but not for the server authentication trust purpose) by one or more of the Microsoft, Mozilla, Chrome, Apple, and 360 Browser root programs.
 #   - All of the roots that are currently trusted (for any purpose) by the Java or Android root programs, but not trusted by Microsoft, Mozilla, Chrome, Apple, or 360 Browser.
+
+REPO_ROOT="$(pwd)"
 cd crt/common/non_production/trusted_but_not_for_serverauth
 rm *.crt
 TMPFILE=`mktemp`
@@ -29,8 +31,6 @@ SQL
 RESULT=$?
 if [ "$RESULT" -eq "0" ]; then
   bash $TMPFILE
-  cd ../../../..
-  GODEBUG=x509negativeserial=1 go run cmd/check-certs/main.go crt
 else
   cat $ERRORFILE
 fi
@@ -51,8 +51,6 @@ SQL
 RESULT=$?
 if [ "$RESULT" -eq "0" ]; then
   bash $TMPFILE
-  cd ../../../..
-  GODEBUG=x509negativeserial=1 go run cmd/check-certs/main.go crt
 else
   cat $ERRORFILE
 fi
@@ -78,15 +76,13 @@ SQL
 RESULT=$?
 if [ "$RESULT" -eq "0" ]; then
   bash $TMPFILE
-  cd ../../../..
-  GODEBUG=x509negativeserial=1 go run cmd/check-certs/main.go crt
 else
   cat $ERRORFILE
 fi
 
 # Get a list (from the crt.sh DB) of the SHA-256 hashes of:
 #   - All of the roots that are in the CCADB but are not trusted by any of the root programs mentioned previously.
-cd ../in_ccadb_but_not_trusted
+cd "$REPO_ROOT"/crt/common/non_production/in_ccadb_but_not_trusted
 rm *.crt
 
 cat <<SQL | tr -d '\n' | psql -h crt.sh -p 5432 -U guest -d certwatch -v ON_ERROR_STOP=1 -X 2>$ERRORFILE
@@ -107,10 +103,12 @@ SQL
 RESULT=$?
 if [ "$RESULT" -eq "0" ]; then
   bash $TMPFILE
-  cd ../../../..
-  GODEBUG=x509negativeserial=1 go run cmd/check-certs/main.go crt
 else
   cat $ERRORFILE
 fi
 
 rm $TMPFILE $ERRORFILE
+
+# Run check-certs once at the end to validate all certificates
+cd "$REPO_ROOT"
+GODEBUG=x509negativeserial=1 go run cmd/check-certs/main.go crt
