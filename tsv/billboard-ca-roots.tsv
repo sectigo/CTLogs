@@ -1,11 +1,13 @@
 SHA-256(Certificate)	CA Name
+0783D68C14CFE5EB1EAFDA2AA984B7E3A4B8BAB000092D2BA02F73757558FDFD	C=GB, O=Sectigo Limited, CN=Sectigo Public BIMI Root R49
+1B82E7F4910B51E3E802A493ACDC17FF58EAC8B9EB7C09B52AC6CD2EFB83598C	C=US, O=SSL Corporation, CN=SSL.com VMC ECC Root CA 2024
+504386C9EE8932FECC95FADE427F69C3E2534B7310489E300FEE448E33C46B42	C=US, ST=Utah, L=Lehi, O=DigiCert, Inc., OU=www.digicert.com, CN=DigiCert Verified Mark Root CA
+5982E554CFBEA37BE12603DC3919BE7F04AF42C87823EE23CE4E930A314AC64E	C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia Verified Mark RSA Root CA
+696F15978B3D83CA351732BBF6BA73D1B6B7CC5742224F03DB8F933B9A443584	C=CN, O=TrustAsia Technologies, Inc., CN=TrustAsia Verified Mark ECC Root CA
+6AE4F0B06B187A7FC2B5815D252B637629734AE64A409CCBB53B14A352563D61	C=US, O=GoDaddy.com, CN=GoDaddy Verified Mark Root CA - VMCR1
+7831D95A47D42508CD5C9E6264F9096BAC19F04EB9B7C8BDD35FFFC71C189617	C=US, O=Entrust, Inc., CN=Entrust Verified Mark Root Certification Authority - VMCR1
+7DBDFC6BD4463D4E22479BDA4E4A973F58AC94845DB0BF86C0F69EB3D719691A	C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2018 Entrust, Inc. - for authorized use only, CN=Entrust Certificate Authority - VMC1
 86D8219C7E2B6009E37EB14356268489B81379E076E8F372E3DDE8C162A34134	C=GB, ST=London, O=Google UK Ltd., OU=Certificate Transparency, CN=Merge Delay Monitor Root
-CybertrustiTrustVMCRSA4096RootCA2025	C=JP, O=Cybertrust Japan Co., Ltd., CN=Cybertrust iTrust VMC RSA4096 Root CA 2025
-DigiCertVerifiedMarkRootCA	C=US, ST=Utah, L=Lehi, O=DigiCert, Inc., OU=www.digicert.com, CN=DigiCert Verified Mark Root CA
-EntrustCertificateAuthority-VMC1	C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2018 Entrust, Inc. - for authorized use only, CN=Entrust Certificate Authority - VMC1
-EntrustVerifiedMarkRootCertificationAuthority-VMCR1	C=US, O=Entrust, Inc., CN=Entrust Verified Mark Root Certification Authority - VMCR1
-GlobalSignVerifiedMarkRootR42	C=BE, O=GlobalSign nv-sa, CN=GlobalSign Verified Mark Root R42
-GoDaddyVerifiedMarkRootCA-VMCR1	C=US, O=GoDaddy.com, CN=GoDaddy Verified Mark Root CA - VMCR1
-SectigoPublicBIMIRootR49	C=GB, O=Sectigo Limited, CN=Sectigo Public BIMI Root R49
-SSL.comVMCECCRootCA2024	C=US, O=SSL Corporation, CN=SSL.com VMC ECC Root CA 2024
-SSL.comVMCRSARootCA2024	C=US, O=SSL Corporation, CN=SSL.com VMC RSA Root CA 2024
+8F9D1B7698886782A599B48510651C66A1AA0C5CA3192097BDC68534154BD30D	C=US, O=SSL Corporation, CN=SSL.com VMC RSA Root CA 2024
+B21A1663D8FEB6B17D10D739363B8D147EA6D114966CDA584C656A57BAE40826	C=JP, O=Cybertrust Japan Co., Ltd., CN=Cybertrust iTrust VMC RSA4096 Root CA 2025
+CD122CB877C6928B9017B0F0B80DBD508196300BBD03CD7356C3BEEF524E7E0B	C=BE, O=GlobalSign nv-sa, CN=GlobalSign Verified Mark Root R42

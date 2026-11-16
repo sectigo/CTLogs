@@ -1,0 +1,909 @@
+CF_CTreq Accepted Roots v1
+# 966 roots, from pem/dumbo-ca-roots.pem
+006b4a9e  C=US, O=DigiCert\, Inc., CN=DigiCert CS RSA4096 Root G5
+0092087f  C=US, O=DigiCert\, Inc., CN=DigiCert SMIME RSA4096 Root G5
+00d20b1b  C=CH, O=SwissSign AG, CN=SwissSign RSA SMIME Root CA 2022 - 1
+0158c2f2  C=US, O=thawte\, Inc., OU=(c) 2007 thawte\, Inc. - For authorized use only, CN=thawte Primary Root CA - G2
+016305c1  OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+01803395  C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority RSA R2
+0199150c  C=AT, O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH, OU=A-Trust-Qual-03, CN=A-Trust-Qual-03
+01f219cf  C=PL, O=Krajowa Izba Rozliczeniowa S.A., CN=SZAFIR ROOT CA2
+0259a9b5  C=LV, OU=Sertifikacijas pakalpojumu dala, CN=E-ME SSI (RCA)
+02ccb51d  C=CN, O=China Financial Certification Authority, CN=CFCA Global ECC ROOT G2
+02d3ccad  C=TW, O=TAIWAN-CA, CN=TWCA SMIME Root CA G1
+02e7d55d  C=GB, O=Sectigo Limited, CN=Sectigo Public Email Protection Root E46
+032460e9  C=ES, O=DIRECCION GENERAL DE LA POLICIA, OU=DNIE, CN=AC RAIZ DNIE
+0347e589  C=US, O=MSFT, CN=Microsoft Authenticode(tm) Root Authority
+03b26a5a  emailAddress=info@gse.com.co, CN=Autoridad Raiz GSE, OU=PKI, O=GSE, C=CO
+03c3b22f  C=BR, O=ICP-Brasil, OU=Instituto Nacional de Tecnologia da Informacao - ITI, CN=Autoridade Certificadora Raiz Brasileira v5
+03e3def4  C=MY, O=MSC Trustgate.com Sdn. Bhd., CN=Trustgate ECC ID Root CA
+053dc3dc  C=US, O=VeriSign\, Inc., OU=VeriSign Trust Network, OU=(c) 2008 VeriSign\, Inc. - For authorized use only, CN=VeriSign Universal Root Certification Authority
+054d5064  C=ES, O=Agencia Notarial de Certificacion S.L. Unipersonal - CIF B83395988, CN=ANCERT Corporaciones de Derecho Publico
+057d6297  C=FR, O=Certeurope, OU=0002 434202180, CN=Certeurope Root CA 2
+067b737d  C=DE, ST=Hamburg, L=Hamburg, O=TC TrustCenter for Security in Data Networks GmbH, OU=TC TrustCenter Class 1 CA, emailAddress=certificate@trustcenter.de
+0689fb33  C=BE, O=GlobalSign nv-sa, CN=GlobalSign TLS Root R41
+06b15615  C=DE, O=TC TrustCenter GmbH, OU=TC TrustCenter Universal CA, CN=TC TrustCenter Universal CA I
+06c827a7  CN=TnTrust Root CA - G1, O=AGENCE NATIONALE DE CERTIFICATION ELECTRONIQUE, C=TN
+06ee07df  C=US, ST=New York, O=Certiphire\, Inc., CN=Certiphire\, Inc.
+0756ea8f  C=CN, O=UniTrust, CN=UniTrust Global TLS RSA Root CA R1
+076e248d  C=es, O=Servicio de Certificacion del Colegio de Registradores (SCR), OU=Certificado Propio, OU=Certificado Raiz, CN=Certificado de la Clave Principal, street=Principe de Vergara 72 28006 Madrid, emailAddress=scr@registradores.org
+08afdad5  C=CN, O=UniTrust, CN=UCA Global G2 Root
+08ee5cc8  C=GB, O=Sectigo Limited, CN=Sectigo Public Email Protection Root R46
+091f857e  C=BR, O=ICP-Brasil, OU=Autoridade Certificadora Raiz Brasileira v10, CN=Autoridade Certificadora do SERPRO SSL
+097192c8  C=FR, O=Dhimyotis, CN=Certigna
+097aa4fb  C=AE, O=DigitalTrust L.L.C., CN=DigitalTrust Root CA G4
+09b0fe25  O=Cybertrust\, Inc, CN=Cybertrust Global Root
+0a3222a4  C=us, ST=Utah, L=Salt Lake City, O=Digital Signature Trust Co., OU=United Parcel Service, CN=DST (UPS) RootCA, emailAddress=ca@digsigtrust.com
+0ac08402  C=FI, O=Digi- ja vaestotietovirasto CA, OU=Certification Authority Services, OU=Varmennepalvelut, CN=DVV Gov. Root CA - G3 RSA
+0ac16a47  C=CN, O=China Financial Certification Authority, CN=CFCA EV ROOT
+0b090aa0  emailAddress=contacto@procert.net.ve, L=Chacao, ST=Miranda, OU=Proveedor de Certificados PROCERT, O=Sistema Nacional de Certificacion Electronica, C=VE, CN=PSCProcert
+0baad0cb  C=JP, O=Cybertrust Japan Co.\, Ltd., CN=SecureSign Root CA16
+0bbca731  C=BR, O=ICP-Brasil, OU=Instituto Nacional de Tecnologia da Informacao - ITI, L=Brasilia, ST=DF, CN=Autoridade Certificadora Raiz Brasileira
+0bd44569  C=KR, O=KISA, OU=Korea Certification Authority Central, CN=KISA RootCA 3
+0bd82175  O=eSign Australia, OU=Public Secure Services, CN=eSign Imperito Primary Root CA
+0c2d992d  C=RO, O=CERTSIGN S.A., CN=certSIGN ROOT CA G4
+0c3d015c  C=GR, L=Athens, O=Hellenic Academic and Research Institutions Cert. Authority, CN=Hellenic Academic and Research Institutions ECC RootCA 2015
+0c5bb027  C=CH, O=SwissSign AG, CN=SwissSign RSA TLS Root CA 2022 - 1
+0ca08506  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Verified Mark Root R42
+0caad25e  C=JP, O=Cybertrust Japan Co.\, Ltd., CN=SecureSign Root CA15
+0ce1bea7  C=ES, O=Víntegris SL, L=Hospitalet de Llobregat, organizationIdentifier=VATES-B62913926, CN=vinCAsign Qualified Authority, ST=Barcelona
+0ced0358  C=HU, L=Budapest, O=NETLOCK Kft., CN=NETLOCK TLS ECC CA, organizationIdentifier=VATHU-12201521
+0d1ca534  C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Certification Authority
+0d8f9d30  C=CN, O=WoSign CA Limited, CN=CA 沃通根证书
+0d9c2e83  C=TN, CN=Tunisian Root Certificate Authority - TunRootCA2, O=National Digital Certification Agency
+0daad3f1  C=JP, O=Cybertrust Japan Co.\, Ltd., CN=SecureSign Root CA14
+0dc34480  C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Trusted Root G4
+0dd58f28  C=AT, O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH, OU=A-Trust-Root-05, CN=A-Trust-Root-05
+0de635fd  C=CN, O=Global Digital Cybersecurity Authority Co.\, Ltd., CN=数安时代 R5 根 CA
+0e28854e  C=BR, O=Certisign Certificadora Digital Ltda., OU=Certisign - Autoridade Certificadora - AC2
+0e7aacda  C=AE, O=DigitalTrust L.L.C., CN=DigitalTrust Root CA G3
+0e8184fc  C=DE, O=D-Trust GmbH, CN=D-TRUST EV Root CA 1 2020
+0ef200ef  C=IN, O=eMudhra Technologies Limited, CN=emSign Root Client Auth CA - G3
+0faad717  C=JP, O=Cybertrust Japan Co.\, Ltd., CN=SecureSign Root CA12
+0ff4a708  C=NL, O=QuoVadis Trustlink B.V., CN=QuoVadis Signing RSA 4096 Root G4
+10288874  C=BR, O=Certisign Certificadora Digital Ltda., OU=Certisign - Autoridade Certificadora - AC4
+105cd5d9  C=NL, O=QuoVadis Trustlink B.V., CN=QuoVadis SMIME ECC P384 Root G4
+10dd3ea7  C=JP, O=SECOM Trust Systems Co.\, Ltd., CN=SECOM Document Signing RSA Root CA 2023, organizationIdentifier=NTRJP-4011001040781
+10f20415  C=IN, O=eMudhra Technologies Limited, CN=emSign Root Client Auth CA - G1
+110c448b  C=CO, L=Carrera 9 16-21 Bogota, O=Certicamara S.A. Entidad de Certificacion, CN=Certificado Empresarial Clase-A
+112a81d7  C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies\, Inc., CN=Starfield Services Root Certificate Authority - G2
+114e36a2  C=SA, O=National Information Center, CN=Saudi National SSL Root CA
+1168098a  C=CN, O=China Financial Certification Authority, CN=CFCA Global RSA ROOT G2
+12279574  C=AU, O=GOV, OU=DoD, OU=PKI, OU=CAs, CN=Australian Defence Public Root CA
+12381e2d  C=JP, O=SECOM Trust Systems CO.\,LTD., CN=Security Communication RootCA3
+12cdd435  C=CH, O=admin, OU=Services, OU=Certification Authorities, CN=AdminCA-CD-T01
+130eefb7  C=AE, O=UAE Government, OU=Dubai Electronic Security Center (DESC), CN=UAE Global Root CA G4 E2, organizationIdentifier=VATAE-100027627700003
+131b68a6  CN=ComSign CA, O=ComSign, C=IL
+1351d816  C=US, O=Microsoft Corporation, CN=Microsoft Identity Verification Root Certificate Authority 2020
+14512090  C=ES, O=FNMT-RCM, CN=AC RAIZ FNMT-RCM SERVIDORES SEGUROS G2R
+147a6389  emailAddress=pki@sk.ee, C=EE, O=AS Sertifitseerimiskeskus, CN=Juur-SK
+14f9dbb5  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Code Verification Root
+1505d971  C=si, O=state-institutions, OU=sigov-ca
+16009ee1  C=IL, O=SSLCom Group ltd., OU=Certificate Services, CN=SSLCom Root G1
+162285e4  C=BR, O=Serasa S.A., OU=Serasa CA III, CN=Serasa Certificate Authority III
+168cb885  CN=AC1 RAIZ MTIN, serialNumber=S2819001E, OU=PRESTADOR DE SERVICIOS DE CERTIFICACION MTIN, OU=SUBDIRECCION GENERAL DE PROCESO DE DATOS, O=MINISTERIO DE TRABAJO E INMIGRACION, L=MADRID, C=ES
+16c638ff  CN=Atos TrustedRoot 2011, O=Atos, C=DE
+16f4e0aa  C=PL, O=Telekomunikacja Polska S.A., OU=Signet Certification Authority, CN=Signet Root CA
+174f7ba1  C=IT, O=Actalis S.p.A., CN=Actalis Code Signing RSA Root CA 2025
+17a9c124  C=NL, O=Staat der Nederlanden, CN=Staat der Nederlanden Root CA - G3
+180db170  C=FR, O=OpenTrust, CN=OpenTrust Root CA G2
+18a9c2b7  C=NL, O=Staat der Nederlanden, CN=Staat der Nederlanden Root CA - G2
+18c4238c  C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign ECC Root CA - G3
+190db303  C=FR, O=OpenTrust, CN=OpenTrust Root CA G3
+19d8359b  C=HU, L=Budapest, O=Microsec Ltd., CN=e-Szigno SMIME Root CA 2024
+19ff597e  C=ES, ST=Barcelona, L=Barcelona (see current address at http://www.anf.es/es/address-direccion.html ), O=ANF Autoridad de Certificacion, OU=ANF Clase 1 CA, emailAddress=info@anf.es, serialNumber=G63287510, CN=ANF Global Root CA
+1a628e35  C=HU, L=Budapest, O=NetLock Halozatbiztonsagi Kft., OU=Tanusitvanykiadok, CN=NetLock Minositett Kozjegyzoi (Class QA) Tanusitvanykiado, emailAddress=info@netlock.hu
+1a9f0034  C=ZA, ST=Western Cape, L=Somerset West, O=South African Post Office Limited, OU=SAPO Trust Centre, CN=SAPO Class 3 Root CA, emailAddress=pkiadmin@trustcentre.co.za
+1ad2fd1b  C=BD, O=Office of the CCA, OU=Root CA, CN=Root CA Bangladesh 2020
+1b0db629  C=FR, O=OpenTrust, CN=OpenTrust Root CA G1
+1b9b3959  C=ES, ST=VALENCIA, L=BURJASSOT, O=ISTEC, organizationIdentifier=VATES-A40573396, CN=ACCV ROOT RSA TLS 2024
+1c6fe487  C=HU, ST=Budapest, L=Budapest, O=NETLOCK Kft., CN=NETLOCK TLS Root CA 2025, organizationIdentifier=VATHU-12201521
+1c755c68  C=SE, O=Telia Company AB, CN=Telia RSA Email Root CA v3
+1c987504  C=PK, O=Electronic Certification Accreditation Council, CN=ECAC TLS Root CA G1
+1cafa7b5  C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root
+1ccd2500  C=US, O=IdenTrust, CN=IdenTrust TLS ECC Root CA 1
+1cce9aac  C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+1ce0eead  C=IT, O=Actalis S.p.A., CN=Actalis Time Stamping RSA Root CA 2025
+1d5598f2  C=CZ, organizationIdentifier=NTRCZ-47114983, O=Česká pošta\, s.p., CN=PostSignum Root QCA ECC R1
+1d5ad403  C=FR, O=Certiposte, CN=Certiposte Classe A Personne
+1d7f4eb1  C=AE, O=DarkMatter LLC, CN=DarkMatter Root CA G4
+1dbcf71a  C=EU, O=AC Camerfirma SA CIF A82743287, OU=http://www.chambersign.org, CN=Global Chambersign Root
+1e7f5044  C=AE, O=DarkMatter LLC, CN=DarkMatter Root CA G3
+1ed72a58  C=ES, O=Agencia Notarial de Certificacion S.L.U. - CIF B83395988, CN=ANCERT Certificados CGN V2
+1f363eb0  C=DE, O=TC TrustCenter GmbH, OU=TC TrustCenter Universal CA, CN=TC TrustCenter Universal CA II
+1fb4affe  C=HU, L=Budapest, O=Microsec Ltd., organizationIdentifier=VATHU-23584497, CN=e-Szigno TLS Root CA 2023
+20f2d8d5  C=US, ST=UT, L=Salt Lake City, O=The USERTRUST Network, OU=http://www.usertrust.com, CN=UTN-USERFirst-Hardware
+21facf9f  C=US, O=Microsoft Corporation, CN=Microsoft TLS RSA Root G2
+21fe5eb2  C=HK, O=Hongkong Post, CN=Hongkong Post Root CA
+226824bd  C=US, O=Wells Fargo, OU=Wells Fargo Certification Authority, CN=Wells Fargo Root Certificate Authority
+22a82195  C=NL, O=QuoVadis Trustlink B.V., CN=QuoVadis TLS ECC P384 Root G4
+22d3bd60  C=CH, O=SwissSign AG, CN=SwissSign Silver Root CA - G3
+22dbb2cc  C=GB, O=Sectigo Limited, CN=Sectigo Public Time Stamping Root E46
+22e9eac1  C=CZ, CN=I.CA - Qualified root certificate, O=První certifikační autorita\, a.s.
+22ffb5d9  C=SI, O=ACNLB
+2327aaa8  C=HK, ST=Hong Kong, L=Hong Kong, O=Hong Kong Internet Registration Corporation Limited, CN=HKCA Root CA 2
+23e7a5de  C=GR, O=Hellenic Academic and Research Institutions CA, CN=HARICA TLS RSA Root CA 2021
+2420b74f  C=US, O=IdenTrust, CN=IdenTrust Commercial Root Code Signing RSA CA 2
+2427ac3b  C=HK, ST=Hong Kong, L=Hong Kong, O=Hong Kong Internet Registration Corporation Limited, CN=HKCA Root CA 3
+24468611  C=NL, O=Staat der Nederlanden, CN=Staat der Nederlanden Root CA
+246af2ef  C=HU, L=Budapest, O=NETLOCK Kft., CN=NETLOCK Root CA ECC
+24a01d36  C=US, O=VISA, OU=Visa International Service Association, CN=Visa Information Delivery Root CA
+24a72b2c  C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA
+24c22164  C=TW, O=Chunghwa Telecom Co.\, Ltd., OU=ePKI Root Certification Authority
+25707e22  C=US, O=Entrust\, Inc., OU=www.entrust.net/CPS is incorporated by reference, OU=(c) 2006 Entrust\, Inc., CN=Entrust Root Certification Authority
+25c649b7  CN=Digidentity Services Root CA, O=Digidentity B.V., C=NL
+2627af61  C=HK, ST=Hong Kong, L=Hong Kong, O=Hong Kong Internet Registration Corporation Limited, CN=HKCA Root CA 1
+26584eb9  CN=VIDA Root CA, O=PT INDONESIA DIGITAL IDENTITY, L=Jakarta Selatan, ST=DKI Jakarta, C=ID
+265a05fa  C=HU, L=Budapest, O=Microsec Ltd., organizationIdentifier=VATHU-23584497, CN=e-Szigno Root CA 2017
+26a5102e  C=TW, O=Chunghwa Telecom Co.\, Ltd., CN=ePKI Root Certification Authority - G4
+26f021cf  C=SE, O=Telia Company AB, CN=Telia EC TLS Root CA v3
+26fe02c3  C=SE, O=Telia Company AB, CN=Telia RSA Client Root CA v3
+272822fc  C=US, O=Entrust, CN=Entrust 4K Client Root CA - 2024
+2784fec4  C=CZ, organizationIdentifier=NTRCZ-47114983, O=Česká pošta\, s.p., CN=PostSignum Root QCA 4
+27c5a043  C=KR, O=NAVER BUSINESS PLATFORM Corp., CN=NAVER Global Root Certification Authority
+28a51354  C=TW, O=Chunghwa Telecom Co.\, Ltd., CN=ePKI Root Certification Authority - G2
+2995cefb  C=DE, O=D-Trust GmbH, CN=D-TRUST Root Class 3 CA 2 EV 2009
+29a15c7c  C=DE, O=DATEV eG, CN=CA DATEV STD 03
+29be4bf3  C=US, ST=UT, L=Salt Lake City, O=The USERTRUST Network, OU=http://www.usertrust.com, CN=UTN-USERFirst-Client Authentication and Email
+29cfed37  C=NO, organizationIdentifier=NTRNO-983163327, O=Buypass AS, CN=Buypass Class 3 Root CA G2 HT
+29e9392a  C=US, ST=FL, L=Jacksonville, O=Network Solutions L.L.C., CN=Network Solutions ECC Certificate Authority
+29f28c86  C=BE, O=ZETES SA (VATBE-0408425626), serialNumber=001, CN=ZETES TSP ROOT CA 001
+2a04702f  C=BE, O=Certipost s.a./n.v., CN=Certipost E-Trust Primary Qualified CA
+2a55abe9  C=US, ST=New York, L=New York, O=Certiphire\, Inc., OU=Internet Authority, CN=Certiphire Root CA G3, generationQualifier=G2
+2aa15e0f  C=DE, O=DATEV eG, CN=CA DATEV STD 02
+2adf17e0  C=ZA, ST=Western Cape, L=Durbanville, O=Thawte, OU=Thawte Certification, CN=Thawte Timestamping CA
+2b2f3b35  C=US, O=IdenTrust, CN=IdenTrust Commercial Root TLS ECC CA 2
+2ba15fa2  C=DE, O=DATEV eG, CN=CA DATEV STD 01
+2bc4bff7  C=US, O=VeriSign\, Inc., OU=Class 1 Public Primary Certification Authority
+2c055190  C=CZ, CN=I.CA - Qualified Certification Authority\, 09/2009, O=První certifikační autorita\, a.s., OU=I.CA - Accredited Provider of Certification Services
+2c08989d  C=CH, O=OISTE Foundation, CN=OISTE Server Root ECC G1
+2c6125f0  C=SE, O=AddTrust AB, OU=AddTrust TTP Network, CN=AddTrust Public CA Root
+2c8042bd  C=NL, O=QuoVadis Trustlink B.V., CN=QuoVadis Client ECC P384 Root G4
+2d0ec046  C=BR, O=Certisign Certificadora Digital S.A., CN=CERTISIGN ROOT CERTIFICATION AUTHORITY
+2d1ac2f8  C=CA, ST=Ontario, L=Toronto, O=Echoworx Corporation, OU=Certification Services, CN=Echoworx Root CA2
+2d1d4f5e  C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com\, Inc., CN=Go Daddy Root Certificate Authority - G2
+2d883556  C=NL, O=QuoVadis Trustlink B.V., CN=QuoVadis TLS RSA 4096 Root G4
+2dd17426  C=MO, O=Macao Post, CN=Macao Post eSignTrust Root Certification Authority
+2e29d948  C=US, O=Amazon, CN=Amazon Root CA 1
+2e6bab07  C=CL, ST=Region Metropolitana, L=Santiago, O=E-CERTCHILE, OU=Autoridad Certificadora, emailAddress=sclientes@ccs.cl, CN=E-CERT ROOT CA
+2e75df3d  OU=Copyright (c) 1997 Microsoft Corp., OU=Microsoft Corporation, CN=Microsoft Root Authority
+2e82450c  C=CN, O=iTrusChina Co.\,Ltd., CN=vTrus Root CA
+2e9c87b5  C=US, O=VeriSign\, Inc., OU=VeriSign Trust Network, OU=(c) 1999 VeriSign\, Inc. - For authorized use only, CN=VeriSign Class 4 Public Primary Certification Authority - G3
+2ebca1b6  C=US, O=Equifax, OU=Equifax Secure Certificate Authority
+2f0f2e66  C=ZA, ST=Gauteng, L=Johannesburg, O=TrustFactory(Pty)Ltd, OU=TrustFactory PKI Operations, CN=TrustFactory SSL Root Certificate Authority
+2f46883f  C=MY, O=MSC Trustgate.com Sdn. Bhd., CN=Trustgate SMIME Enterprise ECC Root CA
+3029dc6e  C=US, O=Amazon, CN=Amazon Root CA 3
+30b55b68  C=DE, O=D-Trust GmbH, CN=D-TRUST Root Class 3 CA 2 2009
+31082955  L=Internet, O=VeriSign\, Inc., OU=VeriSign Commercial Software Publishers CA
+3129aea8  C=US, O=GoDaddy Inc., CN=GoDaddy Root Certificate Authority - G5
+3129de01  C=US, O=Amazon, CN=Amazon Root CA 2
+319479ef  C=US, O=AffirmTrust, CN=AffirmTrust Premium ECC
+31bbe1ae  C=US, O=SSL Corporation, CN=SSL.com VMC RSA Root CA 2024
+31e25651  C=US, O=GoDaddy.com, CN=GoDaddy Verified Mark Root CA - VMCR1
+3204b72c  C=US, O=Starfield Technologies\, Inc., OU=Starfield Class 2 Certification Authority
+325dc315  C=LU, O=LuxTrust S.A., CN=LuxTrust Global Root 2
+32bb553b  C=NO, O=Buypass AS-983163327, CN=Buypass Class 2 Root CA
+32ca6b78  C=PL, O=Asseco Data Systems S.A., OU=Certum Certification Authority, CN=Certum EC-384 CA
+32d7d20e  C=CN, O=UniTrust, CN=UniTrust Global Time Stamping ECC Root CA R2
+331b1770  C=ES, ST=VALENCIA, L=BURJASSOT, O=ISTEC, organizationIdentifier=VATES-A40573396, CN=ACCV ROOT ECC TLS 2024
+3329e127  C=US, O=Amazon, CN=Amazon Root CA 4
+3344f17f  C=HU, L=Budapest, O=Microsec Ltd., CN=e-Szigno TLS Root CA 2024
+34312efe  C=LV, O=VAS Latvijas Pasts - Vien.reg.Nr.40003052790, OU=Sertifikacijas pakalpojumi, CN=VAS Latvijas Pasts SSI(RCA)
+343449bd  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia CS ECC Root CA
+349f824d  C=IL, O=PersonalID Ltd., OU=Certificate Services, CN=PersonalID Trustworthy RootCA 2011
+34e7bbf0  C=CN, O=GUANG DONG CERTIFICATE AUTHORITY CO.\,LTD., CN=GDCA TrustAUTH R5 ROOT
+351f3c00  C=HU, L=Budapest, O=Microsec Ltd., CN=e-Szigno CodeSigning Root CA 2024
+352aad75  C=SE, O=Inera AB, CN=SITHS Root CA v1
+356523ec  C=DK, O=TDC, CN=TDC OCES CA
+3571fb09  C=CN, O=BEIJING CERTIFICATE AUTHORITY, CN=BJCA Global Root CA5 G2
+3573b6e3  C=US, O=Equifax Secure Inc., CN=Equifax Secure Global eBusiness CA-1
+35db2c9e  L=ValiCert Validation Network, O=ValiCert\, Inc., OU=ValiCert Class 2 Policy Validation Authority, CN=http://www.valicert.com/, emailAddress=info@valicert.com
+36511acd  C=CH, O=WISeKey, OU=Copyright (c) 2005, OU=OISTE Foundation Endorsed, CN=OISTE WISeKey Global Root GA CA
+3716c361  CN=I.CA Root CA/ECC 05/2022, O=První certifikační autorita\, a.s., organizationIdentifier=NTRCZ-26439395, C=CZ
+372a8a97  C=US, O=SSL Corporation, CN=SSL.com Client RSA Root CA 2022
+37eb24e2  C=GR, O=Hellenic Academic and Research Institutions CA, CN=HARICA Code Signing ECC Root CA 2021
+383204b3  C=US, O=VISA, OU=Visa International Service Association, CN=Visa Public ECC Root CA
+38363b45  C=AE, O=UAE Government, CN=UAE Global Root CA G4 E2
+38397d17  C=LT, O=Skaitmeninio sertifikavimo centras, OU=CA ROOT Services, CN=SSC GDL CA Root B
+384292e1  C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies\, Inc., CN=Starfield Root Certificate Authority - G2
+386f608f  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Time Stamp Root Certificate Authority 2014
+38bd233f  C=PK, O=Electronic Certification Accreditation Council, CN=ECAC TSA Root CA G1
+39064cf8  C=US, O=SecureTrust Corporation, CN=Secure Global CA
+39264b1d  C=CN, O=China Financial Certification Authority, CN=CFCA Global RSA ROOT
+39397eaa  C=LT, O=Skaitmeninio sertifikavimo centras, OU=CA ROOT Services, CN=SSC GDL CA Root A
+398f6aa2  C=US, ST=UT, L=Salt Lake City, O=The USERTRUST Network, OU=http://www.usertrust.com, CN=UTN - DATACorp SGC
+39d16613  C=US, O=WFA Hotspot 2.0, CN=Hotspot 2.0 Trust Root CA - 03
+3ad0580c  C=DE, O=D-Trust GmbH, CN=D-Trust SBR Root CA 1 2022
+3afcfe1b  C=BR, O=ICP-Brasil, OU=Autoridade Certificadora Raiz Brasileira v10, CN=Autoridade Certificadora do SERPRO SSLv1
+3b68fcd4  C=EU, O=AC Camerfirma SA CIF A82743287, OU=http://www.chambersign.org, CN=Public Notary Root
+3b897efd  serialNumber=G63287510, C=ES, O=ANF Autoridad de Certificacion, OU=ANF CA Raiz, CN=ANF Secure Server Root CA
+3cc4377d  C=SE, O=Telia Company AB, CN=Telia EC Signing Root CA v3
+3ccb87c4  C=TH, O=Electronic Transactions Development Agency (Public Organization), OU=Thailand National Root Certification Authority, CN=Thailand National Root Certification Authority - G1
+3d048fa8  C=US, O=Amazon, CN=Amazon SFG2 N2 ECDSA 384 Root M1
+3d9c2c9e  L=Internet, O=VeriSign\, Inc., OU=VeriSign Individual Software Publishers CA
+3dbbc794  C=AT, O=A-Trust GmbH, CN=a-sign-Root-SMIME-01
+3e08b8f7  C=US, O=X9 Financial PKI, CN=X9 Financial PKI - RSA 4096 Root
+3e5ad852  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia CS RSA Root CA
+3e89bdda  C=US, O=IdenTrust, CN=IdenTrust Commercial Root Timestamp ECC CA 2
+3f104528  O=Digital Signature Trust Co., CN=DST Root CA X3
+3f800f06  C=US, ST=UT, L=Salt Lake City, O=The USERTRUST Network, OU=http://www.usertrust.com, CN=UTN-USERFirst-Object
+3fafeacf  C=IN, O=eMudhra Technologies Limited, CN=emSign Root TLS CA - G1
+3fee0f63  C=US, O=VeriSign\, Inc., OU=Class 3 Public Primary Certification Authority - G2, OU=(c) 1998 VeriSign\, Inc. - For authorized use only, OU=VeriSign Trust Network
+3ff15570  C=US, O=Entrust, CN=Entrust P384 Client Root CA - 2024
+3ff4401e  C=HU, L=Budapest, O=Microsec Ltd., CN=e-Szigno RSA TLS Root CA 2025
+40ecbe81  O=RSA Security Inc, OU=RSA Security 2048 V3
+40f009f9  C=GR, O=Hellenic Academic and Research Institutions CA, CN=HARICA Client ECC Root CA 2021
+41afedf5  C=IN, O=eMudhra Technologies Limited, CN=emSign Root TLS CA - G3
+41bd12b7  C=US, O=GTE Corporation, OU=GTE CyberTrust Solutions\, Inc., CN=GTE CyberTrust Root
+4234075b  C=MY, O=Digicert Sdn. Bhd., CN=PosDigicert Class 2 Root CA G2
+42842d4b  C=CH, O=Swisskey AG, OU=008510000000500000192, OU=Public CA Services, L=Zuerich, CN=Swisskey Root CA
+434326e2  C=JP, O=SECOM Trust Systems CO.\,LTD., OU=Security Communication RootCA2
+4387de9e  C=US, O=VeriSign\, Inc., OU=Class 2 Public Primary Certification Authority - G2, OU=(c) 1998 VeriSign\, Inc. - For authorized use only, OU=VeriSign Trust Network
+44385680  C=JP, O=Japanese Government, organizationIdentifier=NTRJP-8000012010038, CN=Japanese Government Root CA
+44728f9c  C=HU, L=Budapest, O=NetLock Halozatbiztonsagi Kft., OU=Tanusitvanykiadok, CN=NetLock Uzleti (Class B) Tanusitvanykiado
+44dbcdf4  C=TW, O=TAIWAN-CA, OU=Root CA, CN=TWCA Global Root CA G2
+452741f6  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft RSA Root Certificate Authority 2017
+45293b10  C=FR, O=Certigna, CN=Certigna Server Authentication EU Root CA
+45835480  C=ES, O=FNMT-RCM, OU=Ceres, organizationIdentifier=VATES-Q2826004J, CN=AC RAIZ FNMT-RCM SERVIDORES SEGUROS
+45aabdb6  C=BR, O=Soluti, CN=Soluti Global Root CA
+46ee9ec1  C=ES, O=Agencia Notarial de Certificacion S.L. Unipersonal - CIF B83395988, CN=ANCERT Certificados CGN
+47003c89  C=US, O=SSL Corporation, CN=SSL.com TLS RSA Root CA 2022
+4765b42d  C=DE, O=Deutscher Sparkassen Verlag GmbH, OU=S-TRUST Certification Services, CN=S-TRUST Universal Root CA
+47ef7386  C=US, O=Certainly, CN=Certainly Root R1
+48234ee9  C=US, O=Certainly, CN=Certainly Root E1
+4833806e  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia SMIME ECC Root CA
+48dd591a  C=DE, O=D-Trust GmbH, CN=D-TRUST EV Root CA 2 2023
+49a08065  C=IN, O=India PKI, CN=CCA India 2022
+49b8b30c  C=BR, O=Serasa S.A., OU=Serasa CA I, CN=Serasa Certificate Authority I
+4a339999  C=AU, O=GOV, OU=DoD, OU=PKI, OU=CAs, CN=ADOCA02
+4a5c70fe  C=BE, O=Certipost s.a./n.v., CN=Certipost E-Trust TOP Root CA
+4ad8ccf8  C=US, O=IdenTrust, CN=IdenTrust Commercial Root CA 1
+4b36fb0e  C=US, O=Microsoft Corporation, CN=Microsoft EV RSA Root Certificate Authority 2017
+4b48706b  C=US, O=Microsoft Corporation, CN=Microsoft RSA Root Certificate Authority 2017
+4bcd07b1  C=SK, L=Bratislava, O=Disig a.s., CN=CA Disig TLS Root R3
+4cd09c2f  CN=CA Vintegris ROOT TrustServices, organizationIdentifier=VATES-B62913926, O=VINTEGRIS SLU, L=HOSPITALET DE LLOBREGAT, ST=BARCELONA, C=ES
+4d188832  C=GR, O=Hellenic Academic and Research Institutions Cert. Authority, CN=Hellenic Academic and Research Institutions RootCA 2011
+4dc4ab68  C=DE, O=TC TrustCenter GmbH, OU=TC TrustCenter Class 3 CA, CN=TC TrustCenter Class 3 CA II
+4e559b48  C=JP, O=Japanese Government, OU=GPKI, CN=ApplicationCA2 Root
+4e79ece4  C=IN, O=eMudhra Technologies Limited, CN=emSign Root TSA CA - G3
+4eac4508  C=CH, O=SwissSign AG, CN=SwissSign Platinum CA - G2
+4f5f8084  C=US, O=IdenTrust, CN=IdenTrust Commercial Root TLS RSA CA 2
+4f7851f8  C=PL, O=Unizeto Sp. z o.o., CN=Certum CA
+4f79ee77  C=IN, O=eMudhra Technologies Limited, CN=emSign Root TSA CA - G2
+4fcc04d4  C=US, ST=Illinois, L=Chicago, O=Trustwave Holdings\, Inc., CN=Trustwave Global ECC P256 Certification Authority
+4ff1fc5a  C=US, O=GTE Corporation, CN=GTE CyberTrust Root
+50088a88  C=SE, O=Carelink, CN=SITHS CA v3
+50dd4fab  C=US, OU=emSign PKI, O=eMudhra Inc, CN=emSign Root CA - C2
+50f03022  C=DK, O=TDC Internet, OU=TDC Internet Root CA
+5195fe54  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Secure Mail Root R45
+51dd513e  C=US, OU=emSign PKI, O=eMudhra Inc, CN=emSign Root CA - C1
+52da4010  C=US, O=VeriSign\, Inc., OU=Class 2 Public Primary Certification Authority
+52dbf9aa  C=HU, L=Budapest, O=Microsec Ltd., OU=e-Szigno CA, CN=Microsec e-Szigno Root CA
+53290519  C=US, O=thawte\, Inc., OU=Certification Services Division, OU=(c) 2008 thawte\, Inc. - For authorized use only, CN=thawte Primary Root CA - G3
+53b3acd9  C=GB, O=Sectigo Limited, CN=Sectigo Public Time Stamping Root R46
+54196a04  C=ES, O=Colegio de Registradores de la Propiedad y Mercantiles de España, OU=Certificado Propio, CN=Registradores de España - CA Raíz
+541dff34  C=HU, L=Budapest, O=Microsec Ltd., CN=Microsec e-Szigno Root CA 2009, emailAddress=info@e-szigno.hu
+542dcfab  C=CN, O=UniTrust, CN=UCA Root
+5446b485  C=TR, L=Ankara, O=E-Tugra EBG A.S., OU=E-Tugra Trust Center, CN=E-Tugra Global Root CA ECC v3
+54d11357  C=US, OU=emSign PKI, O=eMudhra Inc, CN=emSign ECC Root CA - C3
+550b802c  C=JP, O=SECOM Trust Systems CO.\,LTD., OU=Security Communication EV RootCA1
+555bbe43  C=US, O=VeriSign\, Inc., OU=VeriSign Trust Network, OU=(c) 1999 VeriSign\, Inc. - For authorized use only, CN=VeriSign Class 2 Public Primary Certification Authority - G3
+55a329df  C=IN, O=eMudhra Technologies Limited, CN=emSign Root SMIME CA - G1
+55b5b52d  C=US, O=Entrust\, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust\, Inc. - for authorized use only, CN=Entrust Root Certification Authority - EC1
+560c94d8  C=AT, O=e-commerce monitoring GmbH, CN=GLOBALTRUST 2020
+567fb86c  C=US, ST=Illinois, L=Chicago, O=Trustwave Holdings\, Inc., CN=Trustwave Global Certification Authority
+56f5fbe7  C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Public Primary Certification Authority - G6
+56fbe7f5  C=IT, O=Actalis S.p.A., CN=Actalis SMIME ECC Root CA 2025
+57327c2c  C=FR, O=Certinomis, OU=0002 433998903, CN=Certinomis - Root CA
+57a32d05  C=IN, O=eMudhra Technologies Limited, CN=emSign Root SMIME CA - G3
+57a3b135  C=US, ST=FL, L=Jacksonville, O=Network Solutions L.L.C., CN=Network Solutions RSA Certificate Authority
+57ae53b9  C=US, O=IdenTrust, CN=IdenTrust Commercial Root SMIME ECC CA 2
+57dbc257  C=DE, O=D-Trust GmbH, CN=D-TRUST Root CA 3 2013
+57e5ac86  C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
+58299518  C=AT, O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH, OU=A-Trust-Root-07, CN=A-Trust-Root-07
+58f5ff0d  C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Public Primary Certification Authority - G4
+58fe952d  C=HU, L=Budapest, O=NetLock Kft., OU=Tanúsítványkiadók (Certification Services), CN=NetLock Arany (Class Gold) Főtanúsítvány
+599450c4  C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 2 Public Primary Certification Authority - G6
+59e22f34  C=DE, O=DATEV eG, CN=CA DATEV INT 03
+5a080e28  C=IL, O=StartCom Ltd., CN=StartCom Certification Authority G2
+5a745268  C=JP, O=SECOM Trust Systems Co.\, Ltd., CN=SECOM TLS RSA Root CA 2024
+5acf83d1  C=US, O=VeriSign\, Inc., OU=Class 1 Public Primary Certification Authority - G2, OU=(c) 1998 VeriSign\, Inc. - For authorized use only, OU=VeriSign Trust Network
+5ad74c30  L=Alvaro Obregon, ST=Distrito Federal, C=MX, postalCode=01030, street=Insurgentes Sur 1940, CN=Autoridad Certificadora Raiz de la Secretaria de Economia, OU=Direccion General de Normatividad Mercantil, O=Secretaria de Economia, emailAddress=acrse@economia.gob.mx
+5ae230c7  C=DE, O=DATEV eG, CN=CA DATEV INT 02
+5b44603e  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Timestamping Root E46
+5b658a24  CN=TesteSispRootCA02
+5b86aeb7  C=HU, L=Budapest, O=NETLOCK Kft., CN=NETLOCK Root CA RSA4096
+5b9453ea  C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 2 Public Primary Certification Authority - G4
+5bad03a0  C=TN, O=ANCE, OU=ANCE WEB, CN=Agence Nationale de Certification Electronique, emailAddress=ance@certification.tn
+5bdba879  C=US, ST=UT, L=Salt Lake City, O=The USERTRUST Network, CN=USERTrust Legacy Secure Server CA
+5be2325a  C=DE, O=DATEV eG, CN=CA DATEV INT 01
+5c3123e7  C=PL, O=Asseco Data Systems S.A., CN=Certum Code Signing RSA Root CA
+5c5b2ddd  C=US, ST=Utah, L=Salt Lake City, O=Xcert EZ by DST, CN=Xcert EZ by DST, emailAddress=ca@digsigtrust.com
+5cb4c423  C=CH, O=WISeKey, OU=OISTE Foundation Endorsed, CN=OISTE WISeKey Global Root GB CA
+5cea348f  C=SE, O=Telia Company AB, CN=Telia RSA TLS Root CA v3
+5db58f70  C=FR, O=Certplus, CN=Class 3 Primary CA
+5dbbd028  C=TH, O=Electronic Transactions Development Agency, CN=Thailand National Root Certification Authority - G3
+5ebbd1bb  C=TH, O=Electronic Transactions Development Agency, CN=Thailand National Root Certification Authority - G2
+5f4339aa  CN=ACEDICOM Root, OU=PKI, O=EDICOM, C=ES
+5f467de7  C=ch, O=Swisscom, OU=Digital Certificate Services, CN=Swisscom Root CA 2
+5f7c0e9a  C=BG, organizationIdentifier=NTRBG-203397356, O=Evrotrust Technologies JSC, OU=Evrotrust Qualified Root Authority, CN=Evrotrust RSA Root CA
+5fa2d2ac  C=US, O=CommScope, CN=CommScope Public Trust RSA Root-01
+6012c2d2  C=US, O=VeriSign\, Inc., OU=VeriSign Trust Network, OU=(c) 2006 VeriSign\, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G5
+60467f7a  C=ch, O=Swisscom, OU=Digital Certificate Services, CN=Swisscom Root CA 1
+604c73d7  CN=Entidade de Certificacao Raiz da SISP 02, OU=SISP-Sociedade Interbancaria e Sistemas de Pagamentos, O=SISP, C=CV
+60ffeeba  C=US, O=Starfield Technologies, CN=Starfield TLS Root CA - R1
+612fd475  C=CA, O=Carillon Information Security Inc., OU=Certification Authorities, CN=Carillon PKI Services G2 Root CA 1
+61745d6d  C=JP, O=SECOM Trust Systems Co.\, Ltd., CN=SECOM TLS RSA Root CA 2023
+618324be  C=US, O=GeoTrust Inc., CN=GeoTrust Primary Certification Authority
+61dac54a  CN=SG TRUST SERVICES RACINE, OU=0002 43525289500022, O=SG TRUST SERVICES, C=FR
+6203f36d  C=DE, O=Deutsche Telekom Security GmbH, CN=Telekom Security TLS ECC Root 2020
+6244bce5  C=JP, organizationIdentifier=NTRJP-3010401064771, O=Cybertrust Japan Co.\, Ltd., CN=Cybertrust iTrust Signature ECCP384 Root CA 2025
+62a2d765  C=US, O=CommScope, CN=CommScope Public Trust RSA Root-02
+635e7e77  C=US, O=DigiCert\, Inc., CN=DigiCert CS ECC P384 Root G5
+63854d5c  C=SI, O=Halcom d.d., organizationIdentifier=VATSI-43353126, CN=Halcom Root Certificate Authority
+63946790  C=DE, O=TC TrustCenter GmbH, OU=TC TrustCenter Class 4 CA, CN=TC TrustCenter Class 4 CA II
+6395fcf6  C=TW, O=Chunghwa Telecom Co.\, Ltd., CN=HiPKI Root CA - G1
+63975629  CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı, C=TR, L=ANKARA, O=(c) 2005 TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş.
+63a2c03f  C=US, O=AffirmTrust, CN=AffirmTrust Commercial
+6443fd86  C=US, OU=www.xrampsecurity.com, O=XRamp Security Services Inc, CN=XRamp Global Certification Authority
+64c05ca2  C=TW, O=TAIWAN-CA, OU=Root CA, CN=TWCA Root Certification Authority
+65500b01  C=ES, ST=VALENCIA, L=BURJASSOT, O=ISTEC, organizationIdentifier=VATES-A40573396, CN=ACCV ROOT ECC EIDAS 2023
+65b29474  C=ES, O=Consejo General de la Abogacia NIF:Q-2863006I, CN=Autoridad de Certificacion de la Abogacia
+66429843  C=FR, O=Certplus, CN=Class 3TS Primary CA
+66c73a7a  C=IT, L=Milano, O=Actalis S.p.A./03358520967, CN=Actalis Authentication CA G1
+6721af37  C=NL, O=QuoVadis Trustlink B.V., CN=QuoVadis Signing ECC P384 Root G4
+67b8263b  C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=Secure Certificate Services
+67cf7043  C=PL, O=Krajowa Izba Rozliczeniowa S.A., CN=SZAFIR ROOT CA5 SMIME
+68b3a5dd  C=JP, O=LGPKI, OU=Application CA G2
+68e87d75  OU=GlobalSign Root CA - R2, O=GlobalSign, CN=GlobalSign
+6952f414  C=US, O=Microsoft Corporation, CN=Microsoft TLS ECC Root G2
+698a4ea7  C=ES, ST=Madrid, L=Madrid, O=IPS Certification Authority s.l. ipsCA, OU=ipsCA, CN=ipsCA Global CA Root, emailAddress=global01@ipsca.com
+69a19723  C=ES, O=IZENPE S.A., CN=ROOT CA QC IZENPE
+6a4dd05e  C=RO, O=certSIGN, OU=certSIGN ROOT CA
+6b2481df  L=ValiCert Validation Network, O=ValiCert\, Inc., OU=ValiCert Class 3 Policy Validation Authority, CN=http://www.valicert.com/, emailAddress=info@valicert.com
+6b645c46  C=US, O=VISA, CN=Visa TLS Root CA
+6b701ca3  C=US, O=Wells Fargo WellsSecure, OU=Wells Fargo Bank NA, CN=WellsSecure Public Root Certification Authority 01 G2
+6b816c40  C=DZ, O=AUTORITE NATIONALE DE CERTIFICATION ELECTRONIQUE, CN=National Root CA
+6b96d64d  C=FR, O=Dhimyotis, OU=0002 48146308100036, CN=Certigna Root CA
+6ba90454  C=BR, ST=Rio de Janeiro, L=Rio de Janeiro, O=Certisign Certificadora Digital Ltda., OU=Certisign Autoridade Certificadora AC3S
+6bc0ed72  OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+6c60d190  C=PA, ST=Panama, L=Panama City, O=TrustCor Systems S. de R.L., OU=TrustCor Certificate Authority, CN=TrustCor RootCert CA-1
+6c9e7087  C=DE, O=D-Trust GmbH, CN=D-TRUST BR Root CA 2 2023
+6ce70ceb  C=US, O=Apple Inc., CN=Apple Public TLS ECC Root CA 1
+6cf56412  C=IN, O=India PKI, CN=CCA India 2015 SPL
+6d919dd5  C=BE, O=Certipost s.a./n.v., CN=Certipost E-Trust Primary Normalised CA
+6dd4d308  C=US, O=Verizon Business, OU=OmniRoot, CN=Verizon Global Root CA
+6dd846f9  C=AT, L=Vienna, ST=Austria, O=ARGE DATEN - Austrian Society for Data Protection, OU=GLOBALTRUST Certification Service, CN=GLOBALTRUST, emailAddress=info@globaltrust.info
+6df88529  C=US, OU=WellsSecure Trusted Identity Service CP located at: https://www.wellsfargo.com/cps, OU=Wells Fargo Bank NA, O=Wells Fargo WellsSecure, CN=WellsSecure Public Root Certifcate Authority
+6e005e3c  C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance EV Root CA
+6e834a66  C=US, O=The Go Daddy Group\, Inc., OU=Go Daddy Class 2 Certification Authority
+6e8f4425  C=US, O=ISRG, CN=Root YR
+6ef608b9  C=TR, L=Gebze - Kocaeli, O=Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK, OU=Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü - UEKAE, OU=Kamu Sertifikasyon Merkezi, CN=TÜBİTAK UEKAE Kök Sertifika Hizmet Sağlayıcısı - Sürüm 3
+6f5f29ee  C=ES, O=Agencia Notarial de Certificacion S.L. Unipersonal - CIF B83395988, CN=ANCERT Certificados Notariales
+6f60d649  C=PA, ST=Panama, L=Panama City, O=TrustCor Systems S. de R.L., OU=TrustCor Certificate Authority, CN=TrustCor RootCert CA-2
+6f634895  C=SA, O=National Center for Digital Certification, OU=Saudi National Root CA
+6f8e321c  C=TR, L=Ankara, O=E-Tugra EBG A.S., OU=E-Tugra Trust Center, CN=E-Tugra Global Root CA RSA v3
+7012574c  C=FR, O=Certigna, CN=Certigna Email Protection EU Root CA
+708384e0  C=US, O=VeriSign\, Inc., OU=VeriSign Trust Network, OU=(c) 1999 VeriSign\, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G3
+70cc486b  C=LK, O=Sri Lanka CERT, OU=Root Certification Authority, CN=National Certification Authority of Sri Lanka - G1
+70dcd2ee  C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+70e18312  C=US, O=Entrust\, Inc., CN=Entrust Code Signing Root Certification Authority - CSBR1
+7135b55b  C=DE, O=D-Trust GmbH, CN=D-TRUST Root Class 2 CA 2007
+715838b8  C=NO, O=Buypass AS-983163327, CN=Buypass Class 3 Root CA
+71dcd481  C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+71eb079d  O=Entrust.net, OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.), OU=(c) 1999 Entrust.net Limited, CN=Entrust.net Certification Authority (2048)
+724b04a3  C=HU, L=Budapest, O=Microsec Ltd., CN=e-Szigno ECC TSA Root CA 2024
+7265e9ae  O=eSign Australia, OU=Public Secure Services, CN=Primary Utility Root CA
+72a0adb8  C=TR, L=Ankara, O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş., CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı H5
+72c39904  C=US, O=thawte\, Inc., OU=Certification Services Division, OU=(c) 2006 thawte\, Inc. - For authorized use only, CN=thawte Primary Root CA
+72e976f5  C=US, O=IdenTrust, CN=IdenTrust Public Sector Root CA 1
+72f953c6  C=TW, O=Chunghwa Telecom Co.\, Ltd., CN=CHT TrustRoot CA - G1
+73a23eb6  C=PT, O=MULTICERT - Serviços de Certificação Electrónica S.A., CN=MULTICERT Root Certification Authority 01
+74561c64  C=ES, O=Agencia Notarial de Certificacion S.L.U. - CIF B83395988, CN=ANCERT Certificados Notariales V2
+746137b0  C=US, O=Apple Inc., CN=Apple Public TLS RSA Root CA 1
+74dad6d0  C=PL, O=Krajowa Izba Rozliczeniowa S.A., CN=SZAFIR ROOT CA4 SMIME
+7560c1c5  C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+756441e8  C=US, O=GeoTrust Inc., CN=GeoTrust Global CA 2
+75696d88  C=AT, ST=Austria, L=Vienna, O=Arge Daten Oesterreichische Gesellschaft fuer Datenschutz, emailAddress=a-cert@argedaten.at
+75a0b271  C=TR, L=Ankara, O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş., CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı H6
+75d3871e  C=US, O=Apple Inc., CN=Apple Public Email ECC Root CA 1
+75d4ac5d  CN=CAEDICOM Root, O=EDICOM, C=ES
+75f80b40  C=LK, O=Sri Lanka CERT, CN=National Certification Authority of Sri Lanka TLS Root CA - G1
+7651c1e6  C=DK, O=TRUST2408, CN=TRUST2408 OCES Primary CA
+769ef6af  C=DE, O=Amazon, CN=Amazon ECDSA 384 Root EU M1
+76aef813  C=SE, O=Telia Company AB, CN=Telia EC Client Root CA v3
+77682156  C=ES, ST=MADRID, L=MADRID, OU=see current address at www.camerfirma.com/address, OU=GLOBAL CHAMBERSIGN ROOT - 2016, serialNumber=A82743287, organizationIdentifier=VATES-A82743287, O=AC CAMERFIRMA S.A., CN=GLOBAL CHAMBERSIGN ROOT - 2016
+778f5250  C=US, O=ISRG, CN=Root YE
+77b00688  C=US, ST=UT, L=Salt Lake City, O=The USERTRUST Network, OU=http://www.usertrust.com, CN=UTN-USERFirst-Network Applications
+77b31e15  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+77cc6500  C=AT, O=Telekom-Control-Kommission, CN=Telekom-Control-Kommission Top 1
+781e6190  C=PL, O=Asseco Data Systems S.A., CN=Certum Document Signing ECC Root CA
+78495234  C=BR, O=Serasa S.A., OU=Serasa CA II, CN=Serasa Certificate Authority II
+790f82b1  C=AT, O=A-Trust Ges. für Sicherheitssysteme im elektr. Datenverkehr GmbH, OU=A-Trust-Qual-01, CN=A-Trust-Qual-01
+79d2544f  C=US, O=SSL Corporation, CN=SSL.com VMC ECC Root CA 2024
+79e3c078  C=AT, O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH, OU=A-Trust-Qual-02, CN=A-Trust-Qual-02
+7a17bbf5  C=CH, O=SwissSign AG, CN=SwissSign Gold Root CA - G3
+7a387d3a  C=CN, O=WoSign CA Limited, CN=Certification Authority of WoSign
+7ac871cd  C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority ECC
+7ae6c441  C=CN, O=UniTrust, CN=UCA Extended Validation Root
+7b75d7e2  C=BR, O=ICP-Brasil, OU=Instituto Nacional de Tecnologia da Informacao - ITI, CN=Autoridade Certificadora Raiz Brasileira v11
+7b93f802  C=CN, O=China Internet Network Information Center, CN=China Internet Network Information Center EV Certificates Root
+7b965001  CN=Sudan National Root CA1, OU=Root CA, O=National Authority for Digital Certification, C=SD
+7bad83c8  C=SK, L=Bratislava, O=Disig a.s., CN=CA Disig SMIME Root R4
+7bbe7c64  C=PK, O=Electronic Certification Accreditation Council, CN=ECAC SMIME Root CA G1
+7bc36ff9  C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Code Signing Root
+7c407311  C=US, O=Digital Signature Trust Co., CN=Baltimore EZ by DST, mail=ca@digsigtrust.com
+7c75d975  C=BR, O=ICP-Brasil, OU=Instituto Nacional de Tecnologia da Informacao - ITI, CN=Autoridade Certificadora Raiz Brasileira v10
+7cbc0801  C=US, O=Microsoft Corporation, CN=Microsoft EV ECC Root Certificate Authority 2017
+7cff38a5  C=US, O=SSL Corporation, CN=SSL.com Code Signing ECC Root CA 2022
+7d056659  C=SG, O=Netrust Pte Ltd, OU=Netrust Certificate Authority, CN=Netrust Root CA 2
+7d2fe091  C=JP, O=Japanese Government, OU=ApplicationCA
+7d7d1a6d  C=JP, O=LGPKI, CN=Application CA G4 Root
+7d831b7e  C=DE, O=D-Trust GmbH, CN=D-TRUST Qualified Root CA 1 2007:PN
+7dcdfc62  street=www.gse.com.co, emailAddress=info@gse.com.co, CN=GSE ECDSA RAIZ, serialNumber=900204278, OU=GSE CA RAIZ R2, O=GESTION DE SEGURIDAD ELECTRONICA S.A, L=Bogota D.C., ST=Distrito Capital, C=CO
+7e092c05  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft EV RSA Root Certificate Authority 2017
+7e2a483f  C=TR, L=Ankara, O=E-Tuğra EBG Bilişim Teknolojileri ve Hizmetleri A.Ş., OU=E-Tugra Sertifikasyon Merkezi, CN=E-Tugra Certification Authority
+7e824dab  C=TW, O=TAIWAN-CA, OU=Root CA, CN=TWCA Global Root CA
+7f9e4a5c  C=PL, O=Asseco Data Systems S.A., CN=Certum Code Signing ECC Root CA
+800fd85b  C=US, O=IdenTrust, CN=IdenTrust Commercial Root Client-Auth RSA CA 2
+8013b67b  C=CN, O=BEIJING CERTIFICATE AUTHORITY, CN=BJCA Global Root CA7 G2
+8056c929  C=CN, O=iTrusChina Co.\,Ltd., CN=vTrus ECC Root CA
+8073b00e  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia TLS ECC Root CA
+8088b45b  C=CN, O=UniTrust, CN=UniTrust Global SMIME RSA Root CA R1
+80c6bafb  C=ch, O=admin, OU=Services, OU=Certification Authorities, CN=Admin-Root-CA
+80f160f5  C=US, O=IdenTrust, CN=IdenTrust Timestamp ECC Root CA 1
+80f716c2  C=US, L=New York, O=Ackaia Corporation, OU=www.ackaia.com/trustid, CN=Ackaia Root CA
+81adab71  C=IT, L=Milan, O=Actalis S.p.A./03358520967, CN=Actalis Authentication Root CA
+81c013e5  C=my, O=TM, OU=TM Applied Business Certification Authority, CN=TM Applied Business Root Certificate
+826c1df3  C=US, O=Entrust.net, OU=www.entrust.net/CPS incorp. by ref. (limits liab.), OU=(c) 1999 Entrust.net Limited, CN=Entrust.net Secure Server Certification Authority
+82805506  C=CZ, O=První certifikační autorita\, a.s., organizationIdentifier=NTRCZ-26439395, CN=I.CA Root CA/ECC 12/2016
+82b0e23a  C=TW, O=Chunghwa Telecom Co.\, Ltd., CN=ePKI EV SSL Certification Authority - G1
+82fde0eb  C=SG, O=Netrust Certificate Authority 1, OU=Netrust CA1
+83107447  C=LT, O=Skaitmeninio sertifikavimo centras, OU=VS ROOT Services, CN=SSC GDL CA VS Root
+8342e5e3  OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+8383e4da  C=BE, O=GlobalSign nv-sa, CN=GlobalSign TLS Root E41
+839daa83  C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=Trusted Certificate Services
+84209fe4  C=US, O=IdenTrust, CN=IdenTrust SMIME ECC Root CA 1
+84cc8a5b  C=au, O=SecureNet CA Class B
+84fb099e  C=JP, O=Cybertrust Japan Co.\, Ltd., CN=Cybertrust iTrust VMC RSA4096 Root CA 2025
+8519a9eb  C=GB, O=Sectigo Limited, CN=Sectigo Public Document Signing Root R46
+855a6eb8  C=LK, O=Sri Lanka CERT, CN=National Certification Authority of Sri Lanka DS Root CA - G1
+8566e33e  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia Global Root CA G4
+85880d87  C=US, O=GeoTrust Inc., OU=(c) 2008 GeoTrust Inc. - For authorized use only, CN=GeoTrust Primary Certification Authority - G3
+8609a171  C=HU, L=Budapest, O=NISZ Nemzeti Infokommunikációs Szolgáltató Zrt., CN=Főtanúsítványkiadó - Kormányzati Hitelesítés Szolgáltató
+863ff0df  C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 1 Public Primary Certification Authority - G4
+86687774  C=US, O=Equifax Secure Inc., CN=Equifax Secure eBusiness CA-1
+86e4d372  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft EV ECC Root Certificate Authority 2017
+87165a43  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Client Authentication Root R45
+871f37cf  C=US, O=DigiCert\, Inc., CN=DigiCert Client RSA4096 Root G5
+8766e664  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia Global Root CA G2
+87783bf1  C=DE, O=Deutsche Telekom AG, OU=T-TeleSec Trust Center, CN=Deutsche Telekom Root CA 2
+87836d27  C=GB, O=Sectigo Limited, CN=Sectigo Public Code Signing Root R46
+883ff405  C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 1 Public Primary Certification Authority - G6
+8866e7f7  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia Global Root CA G3
+88801c48  C=CH, O=OISTE Foundation, CN=OISTE Server Root RSA G1
+888e2153  C=SK, L=Žilina, O=brainit.sk\, s.r.o., OU=NFQES, serialNumber=NTRSK-52577465, CN=CA Signing Certificate
+88be2d7a  C=US, O=Entrust\, Inc., CN=Entrust P384 TLS Root CA - 2022
+8941a092  C=HU, L=Budapest, O=Microsec Ltd., CN=e-Szigno ECC Client Root CA 2026
+8954988b  C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com Root Certification Authority RSA
+895d3230  C=DE, ST=Baden-Wuerttemberg (BW), L=Stuttgart, O=Deutscher Sparkassen Verlag GmbH, CN=S-TRUST Authentication and Encryption Root CA 2005:PN
+8961ea17  C=US, O=Entrust\, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust\, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+8a66eb1d  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia Global Root CA G1
+8a73245b  C=CN, O=Aspire Technologies, CN=CMCA GLOBAL TRUST ROOT CA
+8a846eb7  C=ES, O=FNMT, OU=FNMT Clase 2 CA
+8adff74f  C=GR, O=Hellenic Academic and Research Institutions CA, CN=HARICA Code Signing RSA Root CA 2021
+8b05d17d  C=US, ST=Utah, L=Lehi, O=DigiCert\, Inc., OU=www.digicert.com, CN=DigiCert Verified Mark Root CA
+8b4d2b78  C=BE, CN=Government CA, serialNumber=201401
+8b818bef  C=CN, O=UniTrust, CN=UniTrust Global TLS ECC Root CA R2
+8bc3046c  C=FR, ST=France, L=Paris, O=PM/SGDN, OU=DCSSI, CN=IGC/A, emailAddress=igca@sgdn.pm.gouv.fr
+8c16d5e2  C=US, O=IdenTrust, CN=IdenTrust Commercial Root Client-Auth ECC CA 2
+8c234571  C=CN, O=WoSign CA Limited, CN=CA WoSign ECC Root
+8c2c50a2  C=IE, O=An Post, OU=Post.Trust Ltd., CN=Post.Trust Root CA
+8c757c19  C=PL, O=Asseco Data Systems S.A., CN=Certum SMIME ECC Root CA
+8c75a6ae  C=FR, O=Certigna, CN=Certigna Email Protection Root CA
+8cac0be5  C=PL, O=Krajowa Izba Rozliczeniowa S.A., CN=SZAFIR ROOT CA3 TLS
+8ce4f8ff  C=SI, O=Halcom, CN=Halcom Root CA
+8cf08a90  C=US, O=IdenTrust, CN=IdenTrust Commercial Root SMIME RSA CA 2
+8d836f0e  C=ES, O=IZENPE S.A., CN=ROOT CA QC IZENPE 2025
+8e133919  C=CZ, O=Česká pošta\, s.p. [IČ 47114983], CN=PostSignum Root QCA 2
+8e4d3031  C=BE, CN=Government CA, serialNumber=201402
+8efdde7e  C=CH, O=WISeKey, OU=OISTE Foundation Endorsed, CN=OISTE WISeKey Global Root GC CA
+8f1a2d3f  C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 1 G3
+8f1bff1d  C=HU, L=Budapest, O=NetLock Kft., OU=Tanúsítványkiadók (Certification Services), CN=NetLock Platina (Class Platinum) Főtanúsítvány
+8f72b8de  C=CN, O=UniTrust, CN=UniTrust Global Time Stamping RSA Root CA R1
+8fe7d84b  C=KR, O=KISA, OU=ROOTCA, CN=CertRSA01
+907cf3b8  C=GR, O=Athens Exchange S.A., CN=ATHEX Root CA
+90cb6818  C=BD, O=Office of the CCA, OU=Root CA, CN=Root CA Bangladesh 2018
+914fe9bc  C=BE, CN=Belgium Root CA4
+91ba7880  C=DE, ST=Hamburg, L=Hamburg, O=TC TrustCenter for Security in Data Networks GmbH, OU=TC TrustCenter Class 2 CA, emailAddress=certificate@trustcenter.de
+91eb453d  C=NL, O=DigiNotar, CN=DigiNotar Root CA G2, emailAddress=info@diginotar.nl
+925e9a91  C=HU, L=Budapest, O=NETLOCK Kft., CN=NETLOCK Root ECC CA, organizationIdentifier=VATHU-12201521
+92916963  C=CH, O=SwissSign AG, CN=SwissSign Platinum Root CA - G3
+932aabe9  C=RO, O=CERTSIGN SA, OU=certSIGN ROOT CA G2
+9350d307  CN=TÜRKTRUST Elektronik İşlem Hizmetleri, C=TR, L=Ankara, O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Kasım 2005
+936c6c2d  C=UY, O=ADMINISTRACION NACIONAL DE CORREOS, OU=SERVICIOS ELECTRONICOS, CN=SERVICIOS DE CERTIFICACION - A.N.C., mail=correo_cert@correo.com.uy
+9373c826  C=ES, O=Firmaprofesional SA, organizationIdentifier=VATES-A62634068, CN=FIRMAPROFESIONAL CA ROOT-A WEB
+93936ec9  C=US, O=IdenTrust, CN=IdenTrust Client-Auth ECC Root CA 1
+94098771  C=CH, O=The Federal Authorities of the Swiss Confederation, OU=Services, OU=Certification Authorities, CN=Swiss Government Root CA II
+94da4264  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Document Signing Root R45
+94dca4cc  C=US, O=X9 Financial PKI, CN=X9 Financial PKI - RSA 2048 Root
+94e16b3a  C=KR, O=NAVER Cloud Trust Services Corp., CN=NAVER Cloud Trust Services RSA Root G1
+94e67e08  C=US, ST=MN, L=Minneapolis, O=Open Access Technology International Inc, CN=webCARES Root CA 2018
+95339896  C=AE, O=DarkMatter L.L.C., CN=DarkMatter Root CA G3
+9644b58a  C=US, O=Entrust\, Inc., CN=Entrust 4K TLS Root CA - 2022
+9668a19e  C=US, O=Viking Cloud\, Inc., CN=VikingCloud TLS ECC Root 1
+9739fdb2  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Timestamping Root R45
+973f9b18  C=PT, O=DigitalSign Certificadora Digital, CN=DIGITALSIGN GLOBAL ROOT RSA CA
+974ff52a  C=NL, O=DigiNotar, CN=DigiNotar Root CA, emailAddress=info@diginotar.nl
+97943cd8  C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2 G3
+98339d4f  C=AE, O=DarkMatter L.L.C., CN=DarkMatter Root CA G4
+9840823f  C=US, O=IdenTrust, CN=IdenTrust Doc-Sign ECC Root CA 1
+986830f3  C=EU, O=AC Camerfirma SA CIF A82743287, OU=http://www.chambersign.org, CN=Chambers of Commerce Root
+9872c2ca  C=US, O=Digital Signature Trust Co., OU=DST (ANX Network) CA
+989ec4e0  C=SI, O=Halcom, CN=Halcom CA FO
+98a09362  C=US, O=Entrust\, Inc., CN=Entrust Digital Signing Root Certification Authority - DSR1
+99418f78  C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA, emailAddress=premium-server@thawte.com
+999dfec4  C=IL, O=SSLCom Group ltd., OU=Certificate Services, CN=Almost Free SSL RootCA G1
+99a212eb  C=HU, ST=Budapest, L=Budapest, O=NETLOCK Kft., CN=NETLOCK SMIME Root CA 2025, organizationIdentifier=VATHU-12201521
+99cf98dc  O=Cisco Systems, CN=Cisco Root CA 2048
+99d7f517  C=PL, O=Asseco Data Systems S.A., OU=Certum Certification Authority, CN=Certum Trusted Root CA
+9a1e95a8  C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com Root Certification Authority ECC
+9a58e0b3  C=DE, O=D-Trust GmbH, CN=D-Trust SBR Root CA 2 2022
+9aaddb84  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Code Signing Root R45
+9ac42458  C=JP, O=Cybertrust Japan Co.\, Ltd., CN=Cybertrust iTrust TLS ECCP384 Root CA 2025
+9b4548a7  C=si, O=state-institutions, OU=sigen-ca
+9b78d8c0  C=US, O=Microsoft Corporation, CN=Microsoft ECC Root Certificate Authority 2017
+9bb7cec0  C=JP, O=SECOM Trust Systems Co.\, Ltd., CN=SECOM SMIME RSA Root CA 2024
+9bdd78fb  C=us, ST=Utah, L=Salt Lake City, O=Digital Signature Trust Co., OU=DSTCA X2, CN=DST RootCA X2, emailAddress=ca@digsigtrust.com
+9c2a46a4  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia TSA RSA Root CA
+9c3ab420  C=CN, O=UniTrust, CN=UCA Global Root
+9cfe6719  C=GB, O=Aretiico Group PLC, CN=Aretiico TLS Root CA G1
+9d1a04e1  C=UY, O=ADMINISTRACION NACIONAL DE CORREOS, OU=SERVICIOS ELECTRONICOS, CN=Correo Uruguayo - Root CA
+9d1b5d4a  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia Verified Mark ECC Root CA
+9d385d27  C=US, O=DigiCert\, Inc., CN=DigiCert ECC P384 Root G5
+9e259bdf  C=TW, O=Government Root Certification Authority
+9e43c883  CN=ComSign Global Root CA, O=ComSign Ltd., C=IL
+9e8d5c69  C=GR, O=BYTE Computer S.A., CN=BYTE Root Certification Authority 001
+9e9f7f73  C=US, O=IdenTrust, CN=IdenTrust Commercial Root Timestamp RSA CA 2
+9ef336cf  C=TW, O=TAIWAN-CA, CN=TWCA CYBER Root CA G3
+9f4e4044  C=CH, O=OISTE Foundation, CN=OISTE Client Root RSA G1
+9f668086  C=JP, O=LGPKI, CN=Application CA G3 Root
+9f77255c  C=BR, O=ICP-Brasil, OU=Instituto Nacional de Tecnologia da Informacao - ITI, CN=Autoridade Certificadora Raiz Brasileira v1
+9f813523  C=CV, O=ICP-CV, OU=SISP-Sociedade Interbancaria e Sistemas de Pagamentos, CN=Entidade de Certificacao Raiz da SISP 01
+9f958903  C=ES, ST=Madrid, L=Madrid, O=IPS Certification Authority s.l. ipsCA, OU=ipsCA, CN=ipsCA Main CA Root, emailAddress=main01@ipsca.com
+9fc62067  C=MY, O=Pos Digicert Sdn. Bhd., OU=457608-K, CN=Pos Digicert Class 2 Root CA G4
+9fd19a67  C=US, O=Apple Inc., CN=Apple Public TLS RSA Root CA 2
+a027dc33  C=JP, O=Cybertrust Japan Co.\, Ltd., CN=Cybertrust iTrust TLS RSA4096 Root CA 2025
+a072805c  C=TR, O=Elektronik Bilgi Guvenligi A.S., CN=E-GUVEN Kok Elektronik Sertifika Hizmet Saglayicisi S2
+a0e0d341  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Document Signing Root E45
+a1499406  DC=com, DC=microsoft, CN=Microsoft Root Certificate Authority
+a17281ef  C=TR, O=Elektronik Bilgi Guvenligi A.S., CN=E-GUVEN Kok Elektronik Sertifika Hizmet Saglayicisi S3
+a179ed71  C=LT, O=VI Registru Centras - I.k. 124110246, OU=Registru Centro Sertifikavimo Centras, CN=VI Registru Centras RCSC (RootCA)
+a1b0b916  C=PL, O=Asseco Data Systems S.A., CN=Certum SMIME RSA Root CA
+a215c800  C=HU, L=Budapest, O=NETLOCK Kft., CN=NETLOCK SMIME ECC CA, organizationIdentifier=VATHU-12201521
+a2208030  C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+a2772a15  C=BR, O=ICP-Brasil, OU=Instituto Nacional de Tecnologia da Informacao - ITI, CN=Autoridade Certificadora Raiz Brasileira v2
+a3b0bfbc  C=US, O=DigiCert\, Inc., CN=DigiCert Client ECC P384 Root G5
+a40856e4  C=US, O=Amazon, CN=Amazon SFG2 N2 ECDSA 256 Root M1
+a40d16da  C=NL, O=Staat der Nederlanden, CN=Staat der Nederlanden - G4 Root Publ G-SMIME - 2024
+a438d240  C=SE, O=AddTrust AB, OU=AddTrust TTP Network, CN=AddTrust Class 1 CA Root
+a493e078  C=CN, O=UniTrust, CN=UniTrust Global Code Signing ECC Root CA R2
+a59cb501  C=FR, O=Certplus, CN=Class 2 Primary CA
+a5bc13f8  C=CN, O=China Financial Certification Authority, CN=CFCA Identity CA
+a5beb63b  C=FR, O=ANSSI, OU=0002 130007669, CN=IGC/A AC racine Etat francais
+a616e40d  C=CZ, CN=I.CA - Standard Certification Authority\, 09/2009, O=První certifikační autorita\, a.s., OU=I.CA - Provider of Certification Services
+a61bb903  C=US, O=SecureTrust Corporation, CN=SecureTrust CA
+a624f4af  C=us, ST=Utah, L=Salt Lake City, O=Digital Signature Trust Co., OU=National Retail Federation, CN=DST (NRF) RootCA, emailAddress=ca@digsigtrust.com
+a63398a0  C=GB, O=Trustis Limited, OU=Trustis EVS Root CA
+a64b5014  C=US, O=GeoTrust Inc., CN=GeoTrust Universal CA 2
+a6b46c61  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Code Signing Root E45
+a708a986  C=US, O=Amazon, CN=Amazon SFG2 N2 RSA 4096 Root M1
+a7a2dcdf  C=TR, O=Elektronik Bilgi Guvenligi A.S., CN=e-Guven Kok Elektronik Sertifika Hizmet Saglayicisi
+a7ff5b4e  C=MY, O=MSC Trustgate.com Sdn. Bhd., CN=Trustgate SMIME ECC Root CA
+a8e045ea  C=FR, O=Certplus, CN=Class 1 Primary CA
+a9649144  C=FR, O=Certplus, CN=Class 3P Primary CA
+a981a54b  C=DE, O=DATEV eG, CN=CA DATEV BT 01
+a9f86a9f  C=FR, O=Certinomis, OU=0002 433998903, CN=Certinomis - Autorité Racine
+aa81a6de  C=DE, O=DATEV eG, CN=CA DATEV BT 02
+ab0ea3d8  C=US, O=SSL Corporation, CN=SSL.com Code Signing RSA Root CA 2022
+ab6f69ec  C=LT, O=Skaitmeninio sertifikavimo centras, OU=Certification Authority, CN=SSC Root CA C
+ab81a871  C=DE, O=DATEV eG, CN=CA DATEV BT 03
+abf5ee8d  C=AT, ST=Austria, L=Vienna, O=ARGE DATEN - Austrian Society for Data Protection, OU=A-CERT Certification Service, CN=A-CERT ADVANCED, emailAddress=info@a-cert.at
+ac5a22bd  C=FI, ST=Finland, O=Vaestorekisterikeskus CA, OU=Certification Authority Services, OU=Varmennepalvelut, CN=VRK Gov. Root CA
+ac6f6b7f  C=LT, O=Skaitmeninio sertifikavimo centras, OU=Certification Authority, CN=SSC Root CA B
+aca0c36f  CN=BSRE CA SSL G1, O=Balai Sertifikasi Elektronik, C=ID
+aca3cef6  C=US, O=DigiCert\, Inc., CN=DigiCert RSA4096 Root G5
+ad09099a  C=BM, O=QuoVadis Limited, OU=Root Certification Authority, CN=QuoVadis Root Certification Authority
+ad6f6d12  C=LT, O=Skaitmeninio sertifikavimo centras, OU=Certification Authority, CN=SSC Root CA A
+adfb3d6c  C=US, O=DigiCert\, Inc., CN=DigiCert TLS ECC P384 Root G5
+ae0a4b3e  CN=ACCVRAIZ1, OU=PKIACCV, O=ACCV, C=ES
+ae2b3b71  CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı, C=TR, L=Ankara, O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Kasım 2005
+ae4aa242  C=EU, L=Madrid (see current address at www.camerfirma.com/address), serialNumber=A82743287, O=AC Camerfirma S.A., CN=Chambers of Commerce Root - 2008
+ae5803e2  C=GB, O=Sectigo Limited, CN=Sectigo Public Document Signing Root E46
+aecafb29  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft ECC Root Certificate Authority 2017
+aed86774  C=CA, O=AffirmTrust, CN=AffirmTrust 4K TLS Root CA - 2022
+af1c4986  C=US, O=Apple Inc., CN=Apple Public Email RSA Root CA 2
+afc9939a  C=MO, O=Macao Post and Telecommunications Bureau, CN=eSignTrust Root Certification Authority (G03)
+b090c960  C=DE, O=D-Trust GmbH, CN=D-TRUST Root Class 3 CA 2007
+b0fb4225  C=US, O=DigiCert\, Inc., CN=DigiCert TLS ECC P384 Root G6
+b13916bc  C=US, O=Apple Inc., CN=Apple Public TLS ECC Root CA 2
+b2b99546  C=NO, O=Buypass AS-983163327, CN=Buypass Class 2 CA 1
+b2dbf8f8  C=AT, O=A-Trust, OU=A-Trust-nQual-01, CN=A-Trust-nQual-01
+b2e613cd  C=US, O=VeriSign\, Inc., OU=Class 3 Public Primary Certification Authority
+b336519d  C=JP, O=Japan Certification Services\, Inc., CN=SecureSign RootCA11
+b376a941  CN=ComSign Advanced Security CA
+b45d0f0d  CN=Root BSRE CA SSL/TLS, O=Badan Siber dan Sandi Negara, C=ID
+b4805a37  C=PK, O=Electronic Certification Accreditation Council, CN=ECAC Root CA G1
+b4d71286  C=PT, O=DigitalSign Certificadora Digital, CN=DIGITALSIGN GLOBAL ROOT ECDSA CA
+b51b33c8  C=US, O=VeriSign\, Inc., OU=Class 4 Public Primary Certification Authority - G2, OU=(c) 1998 VeriSign\, Inc. - For authorized use only, OU=VeriSign Trust Network
+b550ea05  C=SE, O=AddTrust AB, OU=AddTrust TTP Network, CN=AddTrust Qualified CA Root
+b605d386  C=SK, L=Bratislava, O=Disig a.s., CN=CA Disig
+b6bd3ccc  C=JP, O=SECOM Trust.net, OU=Security Communication RootCA1
+b6d7fd38  C=SE, O=Swedish Social Insurance Agency, CN=Swedish Government Root Authority v3
+b7beb3ea  C=NL, O=QuoVadis Trustlink B.V., CN=QuoVadis SMIME RSA 4096 Root G4
+b7d7fecb  C=SE, O=Swedish Social Insurance Agency, CN=Swedish Government Root Authority v2
+b7fc8770  C=MO, O=Macao Post, CN=Macao Post eSignTrust Root Certification Authority (G02)
+b81474a5  C=TR, L=Gebze - Kocaeli, O=Turkiye Bilimsel ve Teknolojik Arastirma Kurumu - TUBITAK, OU=Kamu Sertifikasyon Merkezi - Kamu SM, CN=TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1
+b8199356  C=JP, O=SECOM Trust Systems Co.\, Ltd., CN=SECOM RSA Root CA 2023
+b86504b3  C=SI, O=Republika Slovenija, organizationIdentifier=VATSI-17659957, CN=SI-TRUST Root
+b8d8005e  C=SE, O=Swedish Social Insurance Agency, CN=Swedish Government Root Authority v1
+b9b41156  C=DE, ST=Hamburg, L=Hamburg, O=TC TrustCenter for Security in Data Networks GmbH, OU=TC TrustCenter Class 4 CA, emailAddress=certificate@trustcenter.de
+ba35c162  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Root Certificate Authority 2011
+ba594c39  C=HU, L=Budapest, O=Microsec Ltd., CN=e-Szigno RSA Client Root CA 2026
+ba8e0c4b  C=PK, O=Electronic Certification Accreditation Council, CN=ECAC Code Signing Root CA G1
+bb35c2f5  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Root Certificate Authority 2010
+bb46d692  C=US, ST=MN, L=Minneapolis, O=Open Access Technology International Inc, CN=OATI WebCARES Root CA
+bc3b3318  C=SE, O=Telia Company AB, CN=Telia EC Email Root CA v3
+bca6b879  C=US, O=GeoTrust Inc., OU=(c) 2007 GeoTrust Inc. - For authorized use only, CN=GeoTrust Primary Certification Authority - G2
+bcd0922b  C=FR, O=Certiposte, CN=Certiposte Serveur
+bd0c6ea4  C=CN, O=UniTrust, CN=UniTrust Global Code Signing RSA Root CA R1
+bde7b45d  C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Trusted Network CA
+be6ca51d  C=AT, O=A-Trust GmbH, OU=A-Trust-Root-09, CN=A-Trust-Root-09
+bea79c6e  C=IT, O=Actalis S.p.A., CN=Actalis TLS Server ECC Root CA 2025
+bea8b300  C=US, ST=Illinois, L=Chicago, O=Trustwave Holdings\, Inc., CN=Trustwave Global ECC P384 Certification Authority
+beafff49  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia SMIME RSA Root CA
+bed097cf  C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Server CA, emailAddress=server-certs@thawte.com
+beed2830  C=JP, O=Japan Certification Services\, Inc., CN=SecureSign RootCA3
+bf3454f1  C=EE, O=AS Sertifitseerimiskeskus, CN=EE Certification Centre Root CA, emailAddress=pki@sk.ee
+bfed29c3  C=JP, O=Japan Certification Services\, Inc., CN=SecureSign RootCA2
+c02726d1  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Secure Mail Root E45
+c03ecf24  C=US, O=America Online Inc., CN=America Online Root Certification Authority 2
+c073c941  C=PT, O=SCEE, CN=ECRaizEstado
+c09a4897  C=US, O=CommScope, CN=CommScope Public Trust ECC Root-01
+c0ed2b56  C=JP, O=Japan Certification Services\, Inc., CN=SecureSign RootCA1
+c10863f0  C=KR, O=Ministry of the Interior and Safety, CN=MOIS SSL Root CA
+c12041e0  C=US, O=SSL Corporation, CN=SSL.com Document Signing RSA Root CA 2022
+c136a0e9  C=US, O=Apple Inc., CN=Apple Public Email ECC Root CA 2
+c157f354  C=DE, O=TC TrustCenter GmbH, OU=TC TrustCenter Class 2 CA, CN=TC TrustCenter Class 2 CA II
+c184d64a  C=US, O=AffirmTrust, CN=AffirmTrust Premium
+c19a4a2a  C=US, O=CommScope, CN=CommScope Public Trust ECC Root-02
+c1bbc2e9  C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 3 G3
+c1e43bae  x500UniqueIdentifier=SEC-830101-9V9, L=Alvaro Obregon, ST=Distrito Federal, C=MX, postalCode=01030, street=Insurgentes Sur 1940, CN=Autoridad Certificadora Raiz de la Secretaria de Economia, OU=Direccion General de Normatividad Mercantil, O=Secretaria de Economia, emailAddress=acrse@economia.gob.mx
+c2c6f389  C=PL, O=Asseco Data Systems S.A., CN=Certum TLS ECC Root CA
+c317cb20  CN=esignit.org
+c33ed3dd  C=US, O=America Online Inc., CN=America Online Root Certification Authority 1
+c34a31ce  C=ES, ST=MADRID, L=MADRID, OU=see current address at www.camerfirma.com/address, OU=CHAMBERS OF COMMERCE ROOT - 2016, serialNumber=A82743287, organizationIdentifier=VATES-A82743287, O=AC CAMERFIRMA S.A., CN=CHAMBERS OF COMMERCE ROOT - 2016
+c3719b34  CN=Atos TrustedRoot Root CA ECC TLS 2021, O=Atos, C=DE
+c3758fc2  C=CZ, CN=I.CA - Standard root certificate, O=Prvni certifikacni autorita a.s.
+c3940f38  C=KR, O=KISA, OU=Korea Certification Authority Central, CN=KISA RootCA 1
+c3cda064  C=US, O=VISA, OU=Visa International Service Association, CN=Visa eCommerce Root
+c3d67da8  OU=GlobalSign ECC Root CA - R4, O=GlobalSign, CN=GlobalSign
+c3ea2291  C=US, O=Cisco Systems, CN=Cisco RXC-R2
+c4437e9c  C=CN, O=Global Digital Cybersecurity Authority Co.\, Ltd., CN=GDCA TrustAUTH E5 ROOT
+c4d45d57  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia TSA ECC Root CA
+c4de4687  C=LU, O=LuxTrust s.a., CN=LuxTrust Global Root
+c56bc042  C=US, O=SSL Corporation, CN=SSL.com Client ECC Root CA 2022
+c5925871  C=BR, O=ICP-Brasil, OU=Autoridade Certificadora Raiz Brasileira v10, CN=AC VALID SSL EV
+c5e3a565  C=HK, O=Hongkong Post, CN=Hongkong Post Root CA 1
+c64b72b2  serialNumber=G63287510, CN=ANF Global Root CA, C=ES, OU=ANF Clase 1 CA, O=ANF Autoridad de Certificacion
+c658e757  C=FR, O=Certplus, CN=Certplus Root CA G1
+c6a31fb8  C=PA, ST=Panama, O=TrustCor Systems S. de R.L., OU=TrustCor Certificate Authority, CN=TrustCor RootCert CA-1
+c72b86c9  C=TW, O=TAIWAN-CA, OU=Root CA, CN=TWCA CYBER Root CA
+c758e8ea  C=FR, O=Certplus, CN=Certplus Root CA G2
+c8941717  C=KR, O=KISA, OU=Korea Certification Authority Central, CN=KISA RootCA 4
+c8b33d41  C=CH, O=SwissSign AG, CN=SwissSign Silver CA - G2
+c8d4da63  C=ZA, ST=Western Cape, L=Somerset West, O=South African Post Office Limited, OU=SAPO Trust Centre, CN=SAPO Class 4 Root CA, emailAddress=pkiadmin@trustcentre.co.za
+c9e3d1b4  C=HU, ST=Hungary, L=Budapest, O=NetLock Halozatbiztonsagi Kft., OU=Tanusitvanykiadok, CN=NetLock Kozjegyzoi (Class A) Tanusitvanykiado
+ca030746  C=GB, O=Sectigo Limited, CN=Sectigo Public Code Signing Root E46
+ca18445e  C=DE, O=Deutsche Telekom Security GmbH, CN=Telekom Security SMIME ECC Root 2021
+ca6490bf  C=CN, O=WoSign CA Limited, CN=Certification Authority of WoSign G2
+ca857826  C=AT, O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH, OU=A-Trust-nQual-03, CN=A-Trust-nQual-03
+cadfe1c3  C=US, O=GoDaddy.com, CN=GoDaddy TLS Root CA - R1
+cb5d0037  C=MY, O=MSC Trustgate.com Sdn. Bhd., CN=Trustgate ID Root CA
+cbbd811c  C=US, O=GTE Corporation, OU=GTE CyberTrust Solutions\, Inc., CN=GTE CyberTrust Global Root
+cc167139  C=CA, O=Notarius Inc, CN=Notarius Root Certificate Authority
+cc6896b9  C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root E46
+cc90e39b  C=IT, O=Actalis S.p.A., CN=Actalis TLS Server RSA Root CA 2025
+ccadc507  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft ECC TS Root Certificate Authority 2018
+ccc97f43  C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft ECC Product Root Certificate Authority 2018
+cccd06e1  C=CH, O=OISTE Foundation, CN=OISTE Client Root ECC G1
+ce028a9d  C=FI, O=Digi- ja vaestotietovirasto CA, OU=Certification Authority Services, OU=Varmennepalvelut, CN=DVV Gov. Root CA - G3 ECC
+ce30f67e  C=US, O=VeriSign\, Inc., OU=VeriSign Trust Network, OU=(c) 2007 VeriSign\, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G4
+ce61f6de  C=BR, O=Certisign Certificadora Digital Ltda., OU=Certisign Autoridade Certificadora AC1S
+cee8ebdb  C=US, O=Federal Aviation Administration, CN=FAA_IDMS_ROOT_CA_R1
+ceeba1ac  C=CN, O=CFCA GT CA
+cf23c1f4  C=CH, O=Swiss Government PKI, OU=www.pki.admin.ch, CN=Swiss Government Root CA III
+cf682f9c  CN=Autoridad Certificadora Raíz Nacional de Uruguay, O=AGESIC, C=UY
+cfbe1fa4  CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı, C=TR, L=Ankara, O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Aralık 2007
+d12b33cd  C=US, O=GoDaddy Inc, CN=GoDaddy Root Certificate Authority - G6
+d1455144  C=ES, O=FNMT-RCM, organizationIdentifier=VATES-Q2826004J, CN=AC RAIZ FNMT-RCM G2
+d14d803a  C=ES, L=C/ Muntaner 244 Barcelona, CN=Autoridad de Certificacion Firmaprofesional CIF A62634068, emailAddress=ca@firmaprofesional.com
+d183d931  C=EU, L=Madrid (see current address at www.camerfirma.com/address), serialNumber=A82743287, O=AC Camerfirma S.A., CN=Global Chambersign Root - 2008
+d19907b8  C=IN, O=India PKI, CN=CCA India 2014
+d1e33fe9  C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+d200142b  C=DE, ST=Hamburg, L=Hamburg, O=TC TrustCenter for Security in Data Networks GmbH, OU=TC TrustCenter Class 3 CA, emailAddress=certificate@trustcenter.de
+d22be422  C=US, O=Network Solutions L.L.C., CN=Network Solutions Certificate Authority
+d272b006  C=US, O=GeoTrust Inc., CN=GeoTrust Universal CA
+d29a5af5  C=KR, O=NAVER Cloud Trust Services Corp., CN=NAVER Cloud Trust Services ECC Root G1
+d33ce2ab  C=GR, O=Hellenic Academic and Research Institutions CA, CN=HARICA TLS ECC Root CA 2021
+d39d5323  C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+d41fdd11  CN=ComSign Secured CA, O=ComSign, C=IL
+d42d89e7  C=US, O=Entrust\, Inc., CN=Entrust P384 EV TLS Root CA - 2022
+d48e56a5  C=FR, O=KEYNECTIS, OU=ROOT, CN=KEYNECTIS ROOT CA
+d48e9476  C=MY, O=MSC Trustgate.com Sdn. Bhd., CN=Trustgate Secure Server Root CA
+d49b4b08  C=IN, O=India PKI, CN=CCA India 2007
+d4aceb32  C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority RSA
+d4f96706  C=PL, O=Asseco Data Systems S.A., CN=Certum TLS RSA Root CA
+d500ac2d  C=US, O=Equifax Secure, OU=Equifax Secure eBusiness CA-2
+d63c0874  C=US, O=DigiCert\, Inc., CN=DigiCert SMIME ECC P384 Root G5
+d6990f97  C=IN, O=India PKI, CN=CCA India 2011
+d704a8a9  C=MY, O=MSC Trustgate.com Sdn. Bhd., CN=Trustgate SMIME RSA Root CA
+d78282b4  C=SI, O=Halcom, CN=Halcom CA PO 2
+d7e66f6f  C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+d8a66e97  C=US, O=AffirmTrust, CN=AffirmTrust Networking
+d8aa5ae1  C=JP, O=SECOM Trust Systems Co.\, Ltd., CN=SECOM TLS ECC Root CA 2024
+d940f044  C=KR, O=Government of Korea, OU=GPKI, CN=GPKIRootCA
+d943ee18  C=PT, O=ACIN-iCloud Solutions\, Lda, OU=Global Trusted Sign, CN=Global Trusted Sign Root Certification Authority 01
+d955b293  CN=EADTrust ECC 256 Root CA For Qualified Web DV/OV Cert 2019, O=European Agency of Digital Trust\, S.L., C=ES
+d957c6a9  C=US, O=Apple Inc., CN=Apple Public Email RSA Root CA 1
+d98ced85  C=CZ, O=První certifikační autorita\, a.s., CN=I.CA Root CA/RSA, serialNumber=NTRCZ-26439395
+da0a49b9  C=US, O=Digital Signature Trust, OU=DST ACES, CN=DST ACES CA X6
+da8afef7  C=US, O=Entrust\, Inc., CN=Entrust 4K EV TLS Root CA - 2022
+daa63981  C=ES, ST=BARCELONA, L=BARCELONA, O=IPS Seguridad CA, OU=Certificaciones, CN=IPS SERVIDORES, emailAddress=ips@mail.ips.es
+dafb06ea  CN=Autoridad de Certificacion Raiz del Estado Venezolano, C=VE, L=Caracas, ST=Distrito Capital, O=Sistema Nacional de Certificacion Electronica, OU=Superintendencia de Servicios de Certificacion Electronica, emailAddress=acraiz@suscerte.gob.ve
+db31a0a7  C=US, O=DigiCert\, Inc., CN=DigiCert TLS RSA4096 Root G5
+db581dca  C=CN, O=CNNIC, CN=CNNIC ROOT
+dbb3617f  C=GB, O=Trustis Limited, OU=Trustis FPS Root CA
+dbe45ec9  C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO ECC Certification Authority
+dc31a23a  C=US, O=DigiCert\, Inc., CN=DigiCert TLS RSA4096 Root G6
+dc368a21  C=GB, O=Sectigo Limited, CN=Sectigo Public BIMI Root R49
+dc857231  C=KR, O=Government of Korea, OU=GPKI, CN=Root CA
+dc96d6be  C=NL, O=QuoVadis Trustlink B.V., CN=QuoVadis Client RSA 4096 Root G4
+dda6d2c0  C=CH, O=Bundesamt fuer Informatik und Telekommunikation (BIT), OU=Swiss Government PKI, CN=Swiss Government Root CA IV
+de40346d  C=US, O=Viking Cloud\, Inc., CN=VikingCloud TLS RSA Root 1
+de9dc29e  C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root G3
+df142ca7  C=JP, organizationIdentifier=JCN3010401064771, O=Cybertrust Japan Co.\, Ltd., CN=Cybertrust iTrust Root Certification Authority
+df645fb0  C=DE, O=T-Systems Enterprise Services GmbH, OU=T-Systems Trust Center, CN=T-TeleSec GlobalRoot Class 3
+df67ba68  C=HU, L=Budapest, O=NetLock Halozatbiztonsagi Kft., OU=Tanusitvanykiadok, CN=NetLock Expressz (Class C) Tanusitvanykiado
+df9dc431  C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root G2
+dfde3bbd  C=ZA, O=LAWtrust, OU=LAW Trusted Third Party Services PTY Ltd., CN=LAWtrust Root Certification Authority 2048
+e021861f  C=BG + O=InfoNotary PLC + DC=root-ca + CN=InfoNotary CSP Root + OU=InfoNotary CSP Root + emailAddress=csp@infonotary.com
+e0646143  C=DE, O=T-Systems Enterprise Services GmbH, OU=T-Systems Trust Center, CN=T-TeleSec GlobalRoot Class 2
+e0938d1f  C=US, O=Amazon, CN=Amazon SFG2 N2 RSA 2048 Root M1
+e0aa0e26  C=CN, O=BEIJING CERTIFICATE AUTHORITY, CN=BJCA Global Root CA6 G2
+e111f76c  CN=I.CA Root CA/RSA 05/2022, O=První certifikační autorita\, a.s., organizationIdentifier=NTRCZ-26439395, C=CZ
+e12ee3ff  O=Microsoft Trust Network, OU=Microsoft Corporation, OU=Microsoft Time Stamping Service Root, OU=Copyright (c) 1997 Microsoft Corp.
+e131bfc0  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46
+e18cb6e2  C=DE, O=Atos, CN=Atos TrustedRoot Root CA RSA G2 2020
+e1fac5bf  C=NO, O=Buypass AS-983163327, CN=Buypass Class 3 CA 1
+e20b3300  C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies\, Inc., OU=http://certificates.starfieldtech.com/repository/, CN=Starfield Services Root Certificate Authority
+e230a550  C=ES, ST=VALENCIA, L=BURJASSOT, O=ISTEC, organizationIdentifier=VATES-A40573396, CN=ACCV ROOT RSA EIDAS 2023
+e29c6fd3  C=ES, O=IZENPE S.A. - CIF A-01337260-RMerc.Vitoria-Gasteiz T1055 F62 S8, L=Avda del Mediterraneo Etorbidea 3 - 01010 Vitoria-Gasteiz, CN=Izenpe.com, emailAddress=Info@izenpe.com
+e2b6948d  C=TR, ST=Kocaeli, O=TUBITAK Kamu Sertifikasyon Merkezi, CN=TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 2
+e331a5f7  C=DE, O=Deutsche Telekom Security GmbH, CN=Telekom Security TLS RSA Root 2023
+e33a0712  C=ZA, O=LAWtrust, CN=LAWtrust Root CA2 (4096)
+e354e1d0  C=ch, O=Swisscom, OU=Digital Certificate Services, CN=Swisscom Root EV CA 2
+e37ad024  C=AT, ST=Wien, L=Wien, O=e-commerce monitoring GmbH, OU=GLOBALTRUST Certification Service, CN=GLOBALTRUST 2015
+e40c2baa  C=BE, O=GlobalSign nv-sa, CN=GlobalSign Client Authentication Root E45
+e41ff3e8  C=US, O=VISA, OU=Visa International Service Association, CN=Visa Public RSA Root CA
+e4391413  C=us, ST=Utah, L=Salt Lake City, O=Digital Signature Trust Co., OU=DSTCA X1, CN=DST RootCA X1, emailAddress=ca@digsigtrust.com
+e447e268  C=US, O=Digital Signature Trust Co., OU=DST-Entrust GTI CA
+e51dc0b6  C=US, O=U.S. Government, OU=FPKI, CN=Federal Common Policy CA
+e524ff43  C=ES, O=Generalitat Valenciana, OU=PKIGVA, CN=Root CA Generalitat Valenciana
+e529a039  C=SE, O=AddTrust AB, OU=AddTrust External TTP Network, CN=AddTrust External CA Root
+e57e32da  C=US, O=GeoTrust Inc., CN=GeoTrust Global CA
+e59b4f12  C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting, OU=Certification Services Division, CN=Thawte Personal Basic CA, emailAddress=personal-basic@thawte.com
+e5c377af  C=CO, O=Sociedad Cameral de Certificación Digital - Certicámara S.A., CN=AC Raíz Certicámara S.A.
+e5d61b71  C=US, O=Symantec Corporation, CN=Symantec Enterprise Mobile Root for Microsoft
+e634c9ac  C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Trusted Network CA 2
+e63e7758  C=US, O=Entrust\, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2015 Entrust\, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G4
+e715d823  C=PL, O=Asseco Data Systems S.A., CN=Certum Document Signing RSA Root CA
+e719a6e7  C=ES, serialNumber=Q2863006I, O=CONSEJO GENERAL DE LA ABOGACIA, CN=ACA ROOT
+e7f661b8  C=ES, O=IZENPE S.A., CN=Izenpe.com
+e8b43e3f  C=PL, O=Krajowa Izba Rozliczeniowa S.A., CN=SZAFIR ROOT CA
+e8f5dde0  C=FI, O=Sonera, CN=Sonera Class2 CA
+e93dee1d  C=FR, O=NATIXIS, OU=0002 542044524, CN=CESAM
+e94b51ee  C=CH, O=The Federal Authorities of the Swiss Confederation, OU=Services, OU=Certification Authorities, CN=Swiss Government Root CA I
+e96ed8a2  DC=rs, DC=posta, DC=ca, CN=Configuration, CN=Services, CN=Public Key Services, CN=AIA, CN=Posta CA Root
+e9aa3538  C=IN, O=India PKI, CN=CCA India 2022 SPL
+e9b810d0  C=HU, L=Budapest, O=Microsec Ltd., CN=e-Szigno TSA Root CA 2024
+e9e47d50  C=IT, O=Actalis S.p.A., CN=Actalis SMIME RSA Root CA 2025
+eb0f4fc7  C=DE, O=Amazon, CN=Amazon ECDSA 256 Root EU M1
+eb80be83  C=CN, O=UniTrust, CN=UniTrust Global SMIME ECC Root CA R2
+eb9eaf3b  C=US, O=Open Access Technology International Inc, CN=OATI webCARES Server Root CA
+ebab6d2c  C=US, O=SSL Corporation, CN=SSL.com TLS ECC Root CA 2022
+ec076b62  C=JP, O=SECOM Trust Systems CO.\,LTD., CN=Security Communication ECC RootCA1
+ec6a4670  C=IT, O=Actalis S.p.A., CN=Actalis Time Stamping ECC Root CA 2025
+ecc7c4ce  C=FR, O=Certigna, CN=Certigna Server Authentication Root CA
+ed309672  C=US, O=RSA Data Security\, Inc., OU=Secure Server Certification Authority
+ed4154a3  C=DE, O=TC TrustCenter GmbH, OU=TC TrustCenter Universal CA, CN=TC TrustCenter Universal CA III
+ed612bbe  C=HR, O=Financijska agencija, CN=Fina Root CA
+ed6caba9  L=ValiCert Validation Network, O=ValiCert\, Inc., OU=ValiCert Class 1 Policy Validation Authority, CN=http://www.valicert.com/, emailAddress=info@valicert.com
+edb70397  C=SI, O=POSTA, OU=POSTArCA
+edee6d9c  C=IT, O=Actalis S.p.A., CN=Actalis Code Signing ECC Root CA 2025
+ee32ef7d  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia Verified Mark RSA Root CA
+ee46645f  C=DE, ST=Hamburg, L=Hamburg, O=TC TrustCenter for Security in Data Networks GmbH, OU=TC TrustCenter Time Stamping CA, CN=TC TrustCenter Time Stamping CA
+ee483e0d  O=VeriSign Trust Network, OU=VeriSign\, Inc., OU=VeriSign Time Stamping Service Root, OU=NO LIABILITY ACCEPTED\, (c)97 VeriSign\, Inc.
+ee5edd59  C=ZA, ST=Gauteng, L=Johannesburg, O=TrustFactory(Pty)Ltd, OU=TrustFactory PKI Operations, CN=TrustFactory Client Root Certificate Authority
+ee6160f5  C=TN, O=Agence Nationale de Certification Electronique, CN=TunTrust Root CA
+ef847e60  C=JP, O=JIPDEC, OU=JCAN Root CA1, CN=JCAN Root CA1
+efdb565d  C=SE, O=Telia Company AB, CN=Telia RSA Signing Root CA v3
+effcd3eb  C=US, O=Entrust\, Inc., CN=Entrust SMIME Root CA - 2022
+f1059ef1  C=GR, O=ATHENS STOCK EXCHANGE, CN=ATHEX Root CA G2
+f1088db6  C=AE, O=UAE Government, CN=UAE Global Root CA G4
+f131d30c  C=MY, O=MSC Trustgate.com Sdn. Bhd., CN=Trustgate SMIME Enterprise RSA Root CA
+f14afe12  C=TN, O=ANCE, OU=Certification & PKI, CN=Agence Nationale de Certification Electronique, emailAddress=ance@certification.tn
+f1f06478  C=NL, O=Staat der Nederlanden, CN=Staat der Nederlanden EV Root CA
+f1fc186c  C=HK, ST=Hong Kong, L=Hong Kong, O=Hongkong Post, CN=Hongkong Post Root CA 3
+f2371d2c  C=GR, O=Hellenic Academic and Research Institutions CA, CN=HARICA Client RSA Root CA 2021
+f24d77e3  C=ES, CN=Autoridad de Certificacion Firmaprofesional CIF A62634068
+f28f7728  C=FI, O=Telia Finland Oyj, CN=Telia Root CA v2
+f2c45366  C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting, OU=Certification Services Division, CN=Thawte Personal Freemail CA, emailAddress=personal-freemail@thawte.com
+f2c9e130  CN=EBG Elektronik Sertifika Hizmet Sağlayıcısı, O=EBG Bilişim Teknolojileri ve Hizmetleri A.Ş., C=TR
+f2fc19ff  C=HK, ST=Hong Kong, L=Hong Kong, O=Hongkong Post, CN=Hongkong Post Root CA 2
+f35e0fc4  C=IN, O=eMudhra Technologies Limited, CN=emSign Root CS CA - G3
+f380df6f  C=US, O=Digital Signature Trust Co., OU=DSTCA E2
+f3f09274  C=DE, O=Amazon, CN=Amazon RSA 2048 Root EU M1
+f408926f  C=AE, O=UAE Government, CN=UAE Global Root CA G3
+f42cff4d  C=US, O=SSL Corporation, CN=SSL.com Document Signing ECC Root CA 2022
+f4540c00  C=US, O=Google Trust Services LLC, CN=GTS Root R1
+f45e1157  C=IN, O=eMudhra Technologies Limited, CN=emSign Root CS CA - G2
+f480e102  C=US, O=Digital Signature Trust Co., OU=DSTCA E1
+f4a07491  C=PA, ST=Panama, L=Panama City, O=TrustCor Systems S. de R.L., OU=TrustCor Certificate Authority, CN=TrustCor ECA-1
+f4d925b8  C=US, O=Internet Security Research Group, CN=ISRG Root X1
+f50670e2  C=KR, O=Government of Korea, OU=GPKI, CN=GPKIRootCA1
+f5344a8f  CN=Developer ID Certification Authority, OU=Apple Certification Authority, O=Apple Inc., C=US
+f5836da3  C=US, O=Entrust\, Inc., CN=Entrust Verified Mark Root Certification Authority - VMCR1
+f5adb10f  CN=I.CA TLS Root CA/RSA 05/2022, O=První certifikační autorita\, a.s., organizationIdentifier=NTRCZ-26439395, C=CZ
+f6322f9b  C=ES, O=Agencia Catalana de Certificacio (NIF Q-0801176-I), OU=Serveis Publics de Certificacio, OU=Vegeu https://www.catcert.net/verarrel (c)03, OU=Jerarquia Entitats de Certificacio Catalanes, CN=EC-ACC
+f6497479  C=us, O=U.S. Government, OU=FBCA, CN=Common Policy
+f6540f26  C=US, O=Google Trust Services LLC, CN=GTS Root R3
+f65cc051  C=US, ST=New York, O=Certiphire\, Inc., CN=Certiphire Root CA G3
+f6a3987c  C=IL, O=StartCom Ltd., OU=Secure Digital Certificate Signing, CN=StartCom Certification Authority
+f6c3f6b1  C=DE, O=Atos, CN=Atos TrustedRoot Root CA ECC G2 2020
+f740951a  C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2
+f75410b9  C=US, O=Google Trust Services LLC, CN=GTS Root R2
+f7d92a71  C=US, O=Internet Security Research Group, CN=ISRG Root X2
+f7f312a3  C=US, O=Wells Fargo WellsSecure, OU=Wells Fargo Bank NA, CN=WellsSecure Public Root Certificate Authority
+f84096ad  C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 3
+f8626c21  C=DE, O=D-Trust GmbH, CN=D-TRUST BR Root CA 1 2020
+f86d467e  C=US, O=VeriSign\, Inc., OU=VeriSign Trust Network, OU=(c) 1999 VeriSign\, Inc. - For authorized use only, CN=VeriSign Class 1 Public Primary Certification Authority - G3
+f8956d5c  C=FI, O=Vaestorekisterikeskus CA, OU=Certification Authority Services, OU=Varmennepalvelut, CN=VRK Gov. Root CA - G2
+f89ec533  C=DE, O=Deutsche Telekom Security GmbH, CN=Telekom Security SMIME RSA Root 2023
+f8a8f443  C=FI, O=Sonera, CN=Sonera Class1 CA
+f9360153  C=SK, L=Bratislava, O=Disig a.s., CN=CA Disig Root R1
+f95413df  C=US, O=Google Trust Services LLC, CN=GTS Root R4
+f96dc13b  C=LT, OU=RCSC, O=VI Registru centras- i.k. 124110246, CN=RCSC RootCA
+f99508f0  C=US, O=IdenTrust, CN=IdenTrust Code-Sign ECC Root CA 1
+fa3602e6  C=SK, L=Bratislava, O=Disig a.s., CN=CA Disig Root R2
+fa8b2603  CN=TÜRKTRUST Elektronik İşlem Hizmetleri, C=TR, L=ANKARA, O=(c) 2005 TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş.
+fac98a84  C=CN, O=BEIJING CERTIFICATE AUTHORITY, CN=BJCA Global Root CA1
+fad14456  C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting, OU=Certification Services Division, CN=Thawte Personal Premium CA, emailAddress=personal-premium@thawte.com
+faf04109  C=ES, ST=Barcelona, L=Barcelona (see current address at https://www.anf.es/address/), O=ANF Autoridad de Certificación, OU=ANF Clase 1 CA, serialNumber=G63287510, CN=ANF Server CA
+fb129943  C=US, O=Starfield Technologies\, Inc., CN=Starfield Root Certificate Authority - G6
+fb79d069  C=CN, O=TrustAsia Technologies\, Inc., CN=TrustAsia TLS RSA Root CA
+fc129ad6  C=US, O=Starfield Technologies\, Inc., CN=Starfield Root Certificate Authority - G5
+fc749504  C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign Root CA - G2
+fcc3a6ac  C=CN, O=China Financial Certification Authority, CN=CFCA Global ECC ROOT
+fcc98daa  C=CN, O=BEIJING CERTIFICATE AUTHORITY, CN=BJCA Global Root CA3
+fcecf240  L=Bogota AV Calle 26 N 68D-35, C=CO, O=Entidad de Certificacion Digital Abierta Certicamara S.A., CN=CERTICAMARA S.A.
+fd042c59  CN=Atos TrustedRoot Root CA RSA TLS 2021, O=Atos, C=DE
+fda7fb34  C=NL, O=Digidentity B.V., CN=Digidentity L3 Root CA - G2
+fdb223ed  C=GR, L=Athens, O=Hellenic Academic and Research Institutions Cert. Authority, CN=Hellenic Academic and Research Institutions RootCA 2015
+fdc98f3d  C=CN, O=BEIJING CERTIFICATE AUTHORITY, CN=BJCA Global Root CA2
+fe461bf5  C=ZA, ST=Western Cape, L=Somerset West, O=South African Post Office Limited, OU=SAPO Trust Centre, CN=SAPO Class 2 Root CA, emailAddress=pkiadmin@trustcentre.co.za
+fe7615cb  C=ES, O=FNMT-RCM, OU=AC RAIZ FNMT-RCM
+fe8e6ff6  C=CA, O=Carillon Information Security Inc., OU=Certification Authorities, CN=CISRCA1
+fefbe552  C=CH, O=SwissSign AG, CN=SwissSign Gold CA - G2
+ff47f311  O=TeliaSonera, CN=TeliaSonera Root CA v1
+ff7499bd  C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign Root CA - G1

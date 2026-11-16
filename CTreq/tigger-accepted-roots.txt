@@ -1,0 +1,135 @@
+CF_CTreq Accepted Roots v1
+# 136 roots, from pem/tigger-ca-roots.pem
+0041cada  C=FR, O=Dhimyotis, OU=0002 48146308100036, CN=ROOT TEST
+0050558b  C=US, O=CommScope, CN=Test CommScope Public Trust RSA Root-02
+010f007d  CN=SpaceX Universal Root CA - 1
+0150571e  C=US, O=CommScope, CN=Test CommScope Public Trust RSA Root-01
+05eeb884  C=DE, ST=Bayern, L=Muenchen, O=Siemens, serialNumber=ZZZZZZA1, OU=Siemens Trust Center, CN=Siemens Root CA V3.0 2016
+0cdb2791  CN=PKIaaS.io Dev Root CA, C=US, ST=Louisiana, O=PKIaaS.io
+0dc10a55  C=US, O=IdenTrust, CN=pte IdenTrust Commercial Root CA 1
+0eb005ed  C=US, O=IdenTrust, CN=Dev IdenTrust Commercial Root CA 1
+12137523  CN=SpaceX Panel CA
+165b65eb  C=CN, O=TrusAuth Inc, OU=TrusAuth Trusted Root, CN=TrusAuth Root CA - G4
+18275de3  C=FR, O=CERTIGNA, CN=Certigna Root CA VM Dev
+1b1906e1  C=FR, ST=Nord, L=Villeneuve d'Ascq, O=NETASQ - Secure Internet Connectivity, OU=NETASQ Certification Authority
+1b5b6dca  C=CN, O=TrusAuth Inc, OU=TrusAuth Trusted Root, CN=TrusAuth Root CA - G3
+1c5b6f5d  C=CN, O=TrusAuth Inc, OU=TrusAuth Trusted Root, CN=TrusAuth Root CA - G2
+1d85411f  C=US, O=IdenTrust, CN=Systest IdenTrust Commercial Root CA 1
+20776074  C=JP, O=ITPasm, CN=ITPasm Test Root CA1
+262236d2  C=GB, O=Sectigo Limited, CN=Sectigo Public Root E46
+2a6bc522  C=QA, O=ictQATAR, OU=CSPs-PMA, CN=Qatar National Root CA DEV
+2f7eb9ac  C=ES, O=StartCom CA, CN=StartCom Certification Authority G3
+32b1e25c  C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Root CA
+34300898  C=TR, L=Gebze -Kocaeli, O=Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK, OU=BİLGEM, CN=Kamu SM Kök Sertifika Hizmet Sağlayıcısı - TEST S2
+373a7e96  C=KR, O=NAVER Cloud Trust Services, CN=NCTS RSA Root G1 Dev
+37982188  C=CN, O=TrusAuth Inc, OU=TrusAuth Trusted Root, CN=TrusAuth Hardware Security ECC Root
+3a389876  C=US, ST=CA, L=Sunnyvale, O=Juniper Networks, OU=Juniper CA, CN=EngineeringEcCA, emailAddress=ca@juniper.net
+3d01d862  C=CN, O=Zhang Anjun, CN=Zhang Anjun Root CA - R1
+3d692add  C=US, O=CableLabs, OU=Root CA01, CN=CableLabs Root Certification Authority
+3e01d9f5  C=CN, O=Zhang Anjun, CN=Zhang Anjun Root CA - R0
+4130cb5a  C=HU, ST=Csongrád-Csanád, L=Szeged, O=Kiss Kornél, CN=Commercié Root CA
+4146a40e  C=US, ST=MN, L=Minneapolis, O=Open Access Technology International Inc, CN=webCARES Demo Root CA 2022
+41ee5cab  C=CN, ST=Henan, L=Nanyang, O=Peddie Institute Co.\, Ltd., OU=IT Department, CN=Peddie Institute Root Certificate Authority DEV, emailAddress=contact@peddie.institute
+4318d5f6  C=CN, ST=Shanghai, O=Youngdo\, Inc., OU=Trust Services, CN=Youngdo Root CA
+431a2942  C=US, ST=CA, L=Sunnyvale, O=Juniper Networks, OU=Juniper CA, CN=JuniperRootEcCA, emailAddress=ca@juniper.net
+44635714  C=US, ST=CA, L=Sunnyvale, O=Juniper Networks, OU=Juniper CA, CN=PackageProductionSHA1RSACA, emailAddress=ca@juniper.net
+44d21263  C=GB, ST=London, L=London, O=Google, OU=Eng, CN=FakeCertificateAuthority
+45744f04  C=CH, O=WISeKey, OU=Development PKI, CN=OISTE WISeKey Demo Root CA 1
+45ddf9f2  C=ch, ST=china, L=beijing, O=bitmain, CN=antsentry
+467179b0  C=CN, O=TrusAuth Inc, OU=TrusAuth Trusted Partner Root, CN=TrusAuth Windows Platform Root CA 2023
+4717f6cd  C=FR, O=CERTINOMIS, OU=0002 433998903, CN=TEST - Certinomis Root CA
+4908147e  C=BR, O=ICP-Brasil, OU=SOLUTI, CN=CA SOLUTI CT Root TEST
+494aa27e  C=GB, O=Example, CN=Example C Vetted Assured Root CA
+4ad0be17  O=David Miller Trust Services, CN=David Miller Root CA - R2
+4bd0bfaa  O=David Miller Trust Services, CN=David Miller Root CA - R1
+4c718322  C=CN, O=TrusAuth Inc, OU=TrusAuth Trusted Partner Root, CN=TrusAuth Windows Platform Root CA 2025
+4d336812  C=US, O=Adobe Systems Incorporated, OU=Adobe Trust Services, CN=Adobe Root CA
+4fed4530  CN=SpaceX Panel CA 2 Root
+5091edbd  C=FR, ST=Nord, L=Villeneuve d'Ascq, O=NETASQ - Secure Internet Connectivity, OU=NETASQ Firewall Certification Authority
+526d9706  C=NL, O=STMicroelectronics nv, CN=STM STSAFE-A PROD CA 48
+57746b48  C=ES, O=StartCom CA, CN=StartCom Certification Authority CS
+5d293d70  C=IT, L=Ponte San Pietro, O=Actalis S.p.A., CN=Actalis Authentication Root CA Test
+60ca2386  C=US, ST=CA, L=Sunnyvale, O=Juniper Networks, OU=Juniper CA, CN=PackageProductionECP256CA, emailAddress=ca@juniper.net
+645fdf73  C=US, O=U.S. Government, CN=LEX Test U.S. Federal Public Trust TLS Root CA R1
+66dad207  C=XX, ST=\ , L=\ , O=KINGDRA.COM, CN=Kingdra Pool Certificate Authority, emailAddress=contact@kingdra.com
+69b23bb3  C=GB, O=Aretiico Group PLC, CN=STAGING - Aretiico TLS Root CA G1
+6a101abe  CN=Apple Secure Boot Root CA - G2, O=Apple Inc., C=US
+6b29aa38  C=CN, O=David Miller Trust Services, OU=For testing purposes only, CN=David Miller Test Root CA - T1
+6d29ad5e  C=CN, O=David Miller Trust Services, OU=For testing purposes only, CN=David Miller Test Root CA - T3
+6d4c4e06  C=NL, O=STMicroelectronics nv, CN=STM STSAFE-A PROD CA 48
+6e29aef1  C=CN, O=David Miller Trust Services, OU=For testing purposes only, CN=David Miller Test Root CA - T2
+7029b217  C=CN, O=David Miller Trust Services, OU=For testing purposes only, CN=David Miller Test Root CA - T4
+70a931f7  C=BE, O=tComLabs - Euro-DOCSIS, OU=Cable Modems, CN=Euro-DOCSIS Cable Modem Root CA
+7300b7d4  C=CZ, O=Monet, CN=Test Root CA 1
+75761884  C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com Root Certification Authority ECC - Test
+7b3b904f  CN=SpaceX Offline Root Certification Authority
+81eceadd  C=AE, ST=Dubai, L=Dubai, O=Dubai Government, OU=DESC, CN=Dubai Root CA TEST
+841e22ce  C=CN, O=TrusAuth Inc, OU=TrusAuth Trusted EV Root, CN=TrusAuth High Assurance EV Root CA
+8432e733  OU=GlobalSign Trusted Computing Certificate Authority, O=GlobalSign, CN=GlobalSign Trusted Platform Module ECC Root CA
+8a73245b  C=CN, O=Aspire Technologies, CN=CMCA GLOBAL TRUST ROOT CA
+8c8c487f  C=TR, L=Gebze -Kocaeli, O=Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK, OU=BİLGEM, CN=Kamu SM Kök Sertifika Hizmet Sağlayıcısı - TEST
+91141bf9  O=TeliaSonera, CN=TeliaSonera PreProd Root CA v1
+929e14b5  C=TR, ST=Kocaeli, O=TUBITAK Kamu Sertifikasyon Merkezi, CN=Kamu SM Kök Sertifika Hizmet Sağlayıcısı - TEST S3
+94a16bff  C=US, O=IdenTrust, CN=SysTest IdenTrust Commercial Root CA 1
+9868e2eb  C=US, ST=California, L=Calabasas, O=ALE International, OU=ALE Networking Division, CN=ALE Intermediate CA
+991c10bb  C=GB, O=Sectigo Limited, CN=Sectigo Public Root R46
+9b6dd94d  C=FR, L=Issy-Les-Moulineaux, O=Stormshield, OU=Stormshield Network Security, CN=Stormshield Network Security Products CA
+9bbf0742  C=US, ST=California, L=San Jose, O=Zscaler Inc., OU=Zscaler Inc., CN=Zscaler Root CA, emailAddress=support@zscaler.com
+a5d5b46f  C=GR, L=Athens, O=Hellenic Academic and Research Institutions Cert. Authority, CN=Hellenic Academic and Research Institutions RootCA 2015 - Test
+a670fe6c  O=Root CA, OU=http://www.cacert.org, CN=CA Cert Signing Authority, emailAddress=support@cacert.org
+a7346fb9  C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com Root Certification Authority RSA - Test
+a7d83028  C=PA, ST=Panama, L=Panama City, O=TrustCor Systems S. de R.L., OU=TrustCor Certificate Authority, CN=Dev TrustCor RootCert CA-2
+aa240db5  C=KR, O=NAVER Cloud Trust Services, CN=NCTS ECC Root G1 Dev
+aad834e1  C=PA, ST=Panama, L=Panama City, O=TrustCor Systems S. de R.L., OU=TrustCor Certificate Authority, CN=Dev TrustCor RootCert CA-1
+ab3f870f  C=KR, O=Naver Business Platform Corp, CN=NAVER Global Root Certification Authority Test
+ac1baf77  C=US, O=Data Over Cable Service Interface Specifications, OU=Cable Modems, CN=DOCSIS Cable Modem Root Certificate Authority
+afaa3624  C=GR, L=Athens, O=Hellenic Academic and Research Institutions Cert. Authority, CN=Hellenic Academic and Research Institutions ECC RootCA 2015 - Test
+b0790678  C=BR, O=ICP-Brasil, OU=\<valor\>, OU=\<valor\>, OU=Certisign Tecnologia da Informacao - DEV, CN=Certisign Certificadora Raiz Brasileira - DEV
+b2091978  C=US, O=STMicroelectronics Inc, CN=STM-POC-SBSFU-ROOT-TEST-CA-00
+b269e401  C=CN, ST=河南省, O=河南瑞趸商贸有限公司, CN=瑞趸⸺宛（Staging）
+b32b4fa0  C=US, O=CommScope, CN=Test CommScope Public Trust ECC Root-02
+b3596ef1  C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority ECC - Test
+b546c0ef  CN=Starlink ECP384 Root CA
+b62b5459  C=US, O=CommScope, CN=Test CommScope Public Trust ECC Root-01
+b94e1cbb  C=US, ST=MN, L=Minneapolis, O=Open Access Technology International Inc, CN=webCARES Demo Root CA 2018
+b976ffb8  C=CH, O=WISeKey SA, OU=test, CN=WISeKey DEMO Root CA
+bb9cb6f4  O=David Miller Trust Services, CN=David Miller Root CA - R3
+bcbfa084  C=HK, ST=Hong Kong, L=Hong Kong, O=Hongkong Post, CN=Hongkong Post Trial Root CA 3
+bd85e5ec  C=CN, ST=GD, L=SZ, O=COM, OU=NSP, CN=CA, emailAddress=youremail@qq.com
+bf0ae977  C=DE, ST=NRW, L=Earth, O=Kingdra Company, OU=IT, CN=www.kingdra.com
+c18f876a  C=US, O=IdenTrust Services LLC, CN=PTE IdenTrust Global Common Root CA 1
+c26f55bf  C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo Dev RSA Certification Authority
+c29cb707  C=CN, ST=河南省, L=南阳市, O=河南承裕商贸有限公司, OU=信息技术部, CN=承裕商贸—G1 (DEV)
+c3df426f  C=ES, O=StartCom CA, CN=StartCom Certification Authority ECC
+c5d53c9e  C=GB, O=Example Limited, CN=Example A Vetted Assured Root CA
+c670fe5c  C=PA, ST=Panama, L=Panama City, O=TrustCor Systems S. de R.L., OU=TrustCor Certificate Authority, CN=Dev TrustCor ECA-1
+c8100deb  C=SE, O=PrimeKey Solutions AB, CN=CT Log Test Root
+cb6b41f5  C=AE, O=UAE Government, CN=STG UAE Global Root CA G4 E2
+cbfe94a7  C=US, ST=CA, L=Sunnyvale, O=Juniper Networks, OU=Juniper CA, CN=PackageEcCA, emailAddress=ca@juniper.net
+cc68a10c  C=SE, O=Swedish Social Insurance Agency, CN=Swedish Government Root Authority v3 SAT
+cd40e83b  C=GR, O=Hellenic Academic and Research Institutions Cert. Authority, CN=Hellenic Academic and Research Institutions RootCA 2011 - Test
+cfa0ffec  CN=Starlink ECP384 Dev Root CA
+d07ce9a6  OU=GlobalSign Trusted Computing Certificate Authority, O=GlobalSign, CN=GlobalSign Trusted Platform Module Root CA
+d22544ea  C=US, ST=CA, L=Sunnyvale, O=Juniper Networks, OU=Juniper CA, CN=JuniperRootCA, emailAddress=ca@juniper.net
+d57e686f  C=BR, O=ICP-Brasil, OU=SERPRO, CN=CA SERPRO Certificate Transparency Root TEST
+d5b3a26a  C=SI, O=TEST Halcom d.d., organizationIdentifier=VATSI-43353126, CN=TEST Halcom Root CA G3
+d5b900d3  C=US, ST=CA, L=Sunnyvale, O=Juniper Networks, OU=Juniper CA, CN=PackageCA, emailAddress=ca@juniper.net
+d8de7c48  C=FR, L=Issy-Les-Moulineaux, O=Stormshield, OU=Cloud Services, CN=Stormshield Products Root CA
+dab45336  C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority RSA R2 - Test
+dfe8af5e  C=US, ST=Florida, L=Fort Lauderdale, O=Mara Tech LLC, OU=Firmware, CN=maratech.io, emailAddress=hsing.lam@mara.com
+e060b27f  C=CN, O=CA TEST RSA
+e363eded  C=NL, O=STMicroelectronics nv, CN=STM STSAFE-A PROD CA 01
+e4ca6bc8  C=CN, ST=河南省, L=南阳市, O=河南承裕商贸有限公司, OU=信息技术部, CN=承裕商贸—卧龙 (DEV)
+e4f9154c  C=US, ST=California, L=Calabasas, O=ALE International, OU=ALE Networking Division, CN=ALE Root CA
+e8641c8b  C=GB, ST=Cymru, O=AS207960 Cyfyngedig, OU=AS207960 Department of Random Numbers, CN=AS207960 Test CA
+e9bceb67  C=US, ST=California, L=LA, O=SpaceX, OU=Starlink, CN=SpaceX Router Root CA
+eb9eaf3b  C=US, O=Open Access Technology International Inc, CN=OATI webCARES Server Root CA
+ec495c3c  C=US, O=U.S. Government, CN=LEX Test U.S. Federal Public Trust TLS Root CA E1
+edd48aef  C=US, ST=CA, L=Calabasas, O=ALE, OU=ALE Network Division, CN=OmniAccess AP CA, emailAddress=ebg_global_supportcenter@al-enterprise.com
+f08306dd  C=GB, O=Example Limited, CN=Example B Vetted Assured Root CA
+f766bfd1  C=CN, O=TrusAuth Inc, OU=TrusAuth Trusted Root, CN=TrusAuth Hardware Security RSA Root
+f93fd4c0  C=CN, O=TrusAuth Inc, OU=TrusAuth Trusted EV Root, CN=TrusAuth High Assurance EV Root CA - G4
+fa039d47  C=CN, O=David Miller Trust Services, CN=David Miller Root CA - R4
+fbcd0ad5  C=AE, O=UAE Government, CN=Test UAE Global Root CA G4 E2
+fbe57ec3  C=US, O=CableLabs, OU=TEST Root CA01, CN=TEST CableLabs Root Certification Authority
+ff286326  C=US, ST=CA, L=Sunnyvale, O=Juniper Networks, OU=Juniper CA, CN=EngineeringCA, emailAddress=ca@juniper.net

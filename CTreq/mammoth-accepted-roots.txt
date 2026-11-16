@@ -1,0 +1,3 @@
+CF_CTreq Accepted Roots v1
+# 1 roots, from pem/mammoth-ca-roots.pem
+e6e82d8e  C=GB, ST=London, O=Google UK Ltd., OU=Certificate Transparency, CN=Merge Delay Monitor Root
