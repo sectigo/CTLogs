@@ -1,5 +1,23 @@
 #!/bin/bash
 
+# Location of a checkout of https://github.com/sectigo/CF_CTreq (defaults to a sibling of this repository).
+CF_CTREQ_DIR="${CF_CTREQ_DIR:-$(dirname "$(realpath "$0")")/../CF_CTreq}"
+ROOTS_HASHES="$(realpath -m "$CF_CTREQ_DIR")/tools/roots-hashes.mjs"
+if [ ! -f "$ROOTS_HASHES" ]; then
+	# No local checkout, so use a temporary clone.
+	CF_CTREQ_TMPDIR="$(mktemp -d)"
+	trap 'rm -rf "$CF_CTREQ_TMPDIR"' EXIT
+	if ! git clone --quiet --depth 1 https://github.com/sectigo/CF_CTreq.git "$CF_CTREQ_TMPDIR"; then
+		echo "Failed to clone CF_CTreq" >&2
+		exit 1
+	fi
+	ROOTS_HASHES="$CF_CTREQ_TMPDIR/tools/roots-hashes.mjs"
+fi
+
+function make_caroots_ctreq {
+	node "$ROOTS_HASHES" pem/$1-ca-roots.pem > CTreq/$1-accepted-roots.txt
+}
+
 function make_caroots_readonly_pem {
 	find crt/common/monitoring crt/$1 -iname *.crt 2>/dev/null | sort | xargs cat > pem/$1-ca-roots.pem
 }
@@ -75,3 +93,15 @@ make_caroots_prod_bimi_tsv billboard
 make_caroots_nonprod1_tsv dumbo
 make_caroots_nonprod2_tsv standee
 make_caroots_test_tsv tigger
+
+mkdir -p CTreq
+make_caroots_ctreq mammoth
+make_caroots_ctreq sabre
+make_caroots_ctreq elephant
+make_caroots_ctreq tiger
+make_caroots_ctreq monument
+make_caroots_ctreq statue
+make_caroots_ctreq billboard
+make_caroots_ctreq dumbo
+make_caroots_ctreq standee
+make_caroots_ctreq tigger
